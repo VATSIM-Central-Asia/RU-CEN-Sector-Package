@@ -1,0 +1,8 @@
+UTSD_CTR Samarkand Control
+UTSS_APP Samarkand Approach
+UTSS_TWR Samarkand Tower
+UTSB_APP Bukhara Approach
+UTSB_TWR Bukhara Tower
+UTSA_TWR Navoi Tower
+UTSK_TWR Karshi Tower
+UTST_TWR Termez Tower
