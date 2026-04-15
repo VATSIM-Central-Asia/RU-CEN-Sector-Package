@@ -12,6 +12,8 @@ We would also really appreciate your help with the already known [issues](https:
 # Credits
 **Evgeny Vygornitsky (862634) - VATRUS1**
 
+<a href="https://discord.com/users/362270458193772545"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="70" align="center"><a/>
+
 **Nikita Zikeev (1475694) - ULLL**
 
 <a href="https://discord.com/users/1066347112595456010"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="70" align="center"><a/>
