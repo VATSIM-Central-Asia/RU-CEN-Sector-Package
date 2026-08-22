@@ -1,0 +1,56 @@
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	airlines	\UCEN\ICAO\ICAO_Airlines.txt
+Settings	airports	\UCEN\ICAO\ICAO_Airports.txt
+Settings	aircraft	\UCEN\ICAO\ICAO_Aircraft.txt
+Settings	airways	\UCEN\NavData\airway.txt
+Settings	airportcoords	\UCEN\NavData\icao.txt
+Settings	alias	\UCEN\Alias\alias.txt
+Plugins	Plugin0	\UCEN\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1	\UCEN\Plugins\Timer\ESTimers.dll
+Plugins	Plugin2	\UCEN\Plugins\AfvEuroScopeBridge.dll
+Plugins	Plugin3	\UCEN\Plugins\Discord\DiscordEuroscope.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
+Sounds	Sound0	\UCEN\Sounds\handoff_request.wav
+Sounds	Sound1	\UCEN\Sounds\handoff_accept.wav
+Sounds	Sound2	\UCEN\Sounds\conflict_alert.wav
+Sounds	Sound3	\UCEN\Sounds\radio_message.wav
+Sounds	Sound4	\UCEN\Sounds\private_message.wav
+Sounds	Sound5	\UCEN\Sounds\atc_message.wav
+Sounds	Sound6	\UCEN\Sounds\broadcast_message.wav
+Sounds	Sound7	\UCEN\Sounds\landline_request.wav
+Sounds	Sound8	\UCEN\Sounds\supervisor_message.wav
+Sounds	Sound9	\UCEN\Sounds\connected.wav
+Sounds	Sound10	\UCEN\Sounds\disconnected.wav
+Sounds	Sound11	\UCEN\Sounds\ongoing_request.wav
+Sounds	Sound12	\UCEN\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\UCEN\Sounds\ongoing_refused.wav
+Sounds	Sound14	\UCEN\Sounds\ongoing_manual.wav
+Sounds	Sound15	\UCEN\Sounds\new_atis.wav
+Sounds	Sound16	\UCEN\Sounds\handoff_refused.wav
+Sounds	Sound17	\UCEN\Sounds\pointout.wav
+Sounds	Sound18	\UCEN\Sounds\startup_silent.wav
+Settings	SettingsfileSIL	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfileSEL	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfileDEP	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfileARR	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfileFP	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfileCONFLICT	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfilePILOTING	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfileORIGPLANE	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfileSTUP	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfileTAXIOUT	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfileTAKEOFF	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfileADCS	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfileTAXIIN	\UCEN\Settings\RU-CEN_Lists.txt
+Settings	SettingsfileSYMBOLOGY	\UCEN\Settings\RU-CEN_Settings.txt
+Settings	SettingsfileVOICE	\UCEN\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\UCEN\Settings\RU-CEN_Profiles.txt
+Settings	SettingsfileTAGS	\UCEN\Settings\RU-CEN_TAGs.txt
+Settings	SettingsfilePLUGINS	\UCEN\Settings\RU-CEN_Plugins.txt
+Settings	Settingsfile	\UCEN\Settings\RU-CEN_Settings.txt
+Settings	SettingsfileSCREEN	\UCEN\Settings\RU-CEN_Settings.txt
+Settings	SettingsfileVCCS	\UCEN\Settings\RU-CEN_VCCS_Profile.txt
+RecentFiles	Recent1	\UCEN\ASR\Central Asia.asr
+RecentFiles	Recent2	\UCEN\ASR\Ground layouts.asr
