@@ -210,7 +210,6 @@ System_UseReportedGS=0
 System_ASP_IasMach=25000
 System_MetarSourceVATSIM=1
 System_UseRwyLockedColor=0
-System_UseSidStarAllocationColor=0
 System_TaxiTime=5
 System_FPASD=0
 
@@ -237,19 +236,3 @@ WXR_Longitude=137,1
 WXR_Longitude_Max=150
 WXR_Longitude_Min=122
 WXR_ImageSize=512
-
-[UTSD_CTR]
-Setup_LoadView=UTSD_CTR
-Setup_ScreenLat=UTSD
-CPDLC_Default=0
-
-[UTSS_APP]
-Setup_LoadView=UTSS_APP
-Setup_ScreenLat=UTSS
-CPDLC_Default=0
-
-[UTSB_APP]
-Setup_LoadView=UTSB_APP
-Setup_ScreenLat=UTSB
-CPDLC_Default=0
-

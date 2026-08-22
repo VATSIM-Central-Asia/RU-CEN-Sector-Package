@@ -3,6 +3,222 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+ARTCC boundary:UCEN FSS:
+ARTCC high boundary:UAAA ACC:
+ARTCC high boundary:UACN ACC:
+ARTCC high boundary:UAII ACC:
+ARTCC high boundary:UATT ACC:
+ARTCC high boundary:UCFM ACC:
+ARTCC high boundary:UCFO ACC:
+ARTCC high boundary:UTAA ACC:
+ARTCC high boundary:UTAK ACC:
+ARTCC high boundary:UTAT ACC:
+ARTCC high boundary:UTAV ACC:
+ARTCC high boundary:UTDD ACC:
+ARTCC high boundary:UZSD ACC:
+ARTCC high boundary:UZTR ACC:
+ARTCC low boundary:UAAA_APP:
+ARTCC low boundary:UAAA_R_APP:
+ARTCC low boundary:UAAA_TWR:
+ARTCC low boundary:UAAC_TWR:
+ARTCC low boundary:UAAH_TWR:
+ARTCC low boundary:UAAL_TWR:
+ARTCC low boundary:UAAR_TWR:
+ARTCC low boundary:UAAT_TWR:
+ARTCC low boundary:UACC_APP:
+ARTCC low boundary:UACC_R_APP:
+ARTCC low boundary:UACC_TWR:
+ARTCC low boundary:UACK TWR:
+ARTCC low boundary:UACP_TWR:
+ARTCC low boundary:UADD_APP:
+ARTCC low boundary:UADD_TWR:
+ARTCC low boundary:UAII_TWR:
+ARTCC low boundary:UAIK_TWR:
+ARTCC low boundary:UAIT_TWR:
+ARTCC low boundary:UAKB_TWR:
+ARTCC low boundary:UAKD_TWR:
+ARTCC low boundary:UAKK_TWR:
+ARTCC low boundary:UAOO_TWR:
+ARTCC low boundary:UARR_TWR:
+ARTCC low boundary:UASI_TWR:
+ARTCC low boundary:UASK_TWR:
+ARTCC low boundary:UASP_TWR:
+ARTCC low boundary:UASS_TWR:
+ARTCC low boundary:UASU_TWR:
+ARTCC low boundary:UASZ_TWR:
+ARTCC low boundary:UATE_TWR:
+ARTCC low boundary:UATG_TWR:
+ARTCC low boundary:UATT_TWR:
+ARTCC low boundary:UATZ_TWR:
+ARTCC low boundary:UAUR_TWR:
+ARTCC low boundary:UAUU_TWR:
+ARTCC low boundary:UCFD_TWR:
+ARTCC low boundary:UCFK_TWR:
+ARTCC low boundary:UCFL_TWR:
+ARTCC low boundary:UCFM_APP:
+ARTCC low boundary:UCFM_TWR:
+ARTCC low boundary:UCFN_TWR:
+ARTCC low boundary:UCFO_APP:
+ARTCC low boundary:UCFO_TWR:
+ARTCC low boundary:UCFT_TWR:
+ARTCC low boundary:UCFV_TWR:
+ARTCC low boundary:UCFZ_TWR:
+ARTCC low boundary:UTAA_APP:
+ARTCC low boundary:UTAE_TWR:
+ARTCC low boundary:UTAK_R_APP:
+ARTCC low boundary:UTAM_R_APP:
+ARTCC low boundary:UTAN_TWR:
+ARTCC low boundary:UTAT_APP:
+ARTCC low boundary:UTAV_R_APP:
+ARTCC low boundary:UTDD_APP:
+ARTCC low boundary:UTDD_R_APP:
+ARTCC low boundary:UTDK_TWR:
+ARTCC low boundary:UTDL_TWR:
+ARTCC low boundary:UTDT_TWR:
+ARTCC low boundary:UZFA CTR:
+ARTCC low boundary:UZFF CTR:
+ARTCC low boundary:UZFK CTR:
+ARTCC low boundary:UZFN CTR:
+ARTCC low boundary:UZFN TMA:
+ARTCC low boundary:UZNM CTR:
+ARTCC low boundary:UZNN CTR:
+ARTCC low boundary:UZNN TCA:
+ARTCC low boundary:UZNN TMA:
+ARTCC low boundary:UZNU CTR:
+ARTCC low boundary:UZNU TCA:
+ARTCC low boundary:UZNU TMA:
+ARTCC low boundary:UZSA CTR:
+ARTCC low boundary:UZSB CTR:
+ARTCC low boundary:UZSB TCA:
+ARTCC low boundary:UZSB TMA:
+ARTCC low boundary:UZSH ATZ:
+ARTCC low boundary:UZSK CTR:
+ARTCC low boundary:UZSK TMA:
+ARTCC low boundary:UZSR ATZ:
+ARTCC low boundary:UZSS CTR:
+ARTCC low boundary:UZSS TMA:
+ARTCC low boundary:UZST CTR:
+ARTCC low boundary:UZST TMA:
+ARTCC low boundary:UZTC CTR:
+ARTCC low boundary:UZTP CTR:
+ARTCC low boundary:UZTT CTR:
+ARTCC low boundary:UZTT TMA:
+ARTCC low boundary:UZTZ ATZ:
+ARTCC low boundary:ZF0C_TWR:
+Free Text:UAAA Ground Freetext\01:freetext
+Free Text:UAAA Ground Freetext\02:freetext
+Free Text:UAAA Ground Freetext\101:freetext
+Free Text:UAAA Ground Freetext\102:freetext
+Free Text:UAAA Ground Freetext\103:freetext
+Free Text:UAAA Ground Freetext\104:freetext
+Free Text:UAAA Ground Freetext\105A:freetext
+Free Text:UAAA Ground Freetext\105B:freetext
+Free Text:UAAA Ground Freetext\106:freetext
+Free Text:UAAA Ground Freetext\106A:freetext
+Free Text:UAAA Ground Freetext\106B:freetext
+Free Text:UAAA Ground Freetext\201:freetext
+Free Text:UAAA Ground Freetext\202:freetext
+Free Text:UAAA Ground Freetext\203:freetext
+Free Text:UAAA Ground Freetext\204:freetext
+Free Text:UAAA Ground Freetext\204L:freetext
+Free Text:UAAA Ground Freetext\204R:freetext
+Free Text:UAAA Ground Freetext\205:freetext
+Free Text:UAAA Ground Freetext\205L:freetext
+Free Text:UAAA Ground Freetext\205R:freetext
+Free Text:UAAA Ground Freetext\26:freetext
+Free Text:UAAA Ground Freetext\27:freetext
+Free Text:UAAA Ground Freetext\28:freetext
+Free Text:UAAA Ground Freetext\29:freetext
+Free Text:UAAA Ground Freetext\30:freetext
+Free Text:UAAA Ground Freetext\301:freetext
+Free Text:UAAA Ground Freetext\302:freetext
+Free Text:UAAA Ground Freetext\303:freetext
+Free Text:UAAA Ground Freetext\31:freetext
+Free Text:UAAA Ground Freetext\31A:freetext
+Free Text:UAAA Ground Freetext\32:freetext
+Free Text:UAAA Ground Freetext\32A:freetext
+Free Text:UAAA Ground Freetext\33:freetext
+Free Text:UAAA Ground Freetext\34:freetext
+Free Text:UAAA Ground Freetext\35:freetext
+Free Text:UAAA Ground Freetext\36:freetext
+Free Text:UAAA Ground Freetext\42:freetext
+Free Text:UAAA Ground Freetext\42A:freetext
+Free Text:UAAA Ground Freetext\43:freetext
+Free Text:UAAA Ground Freetext\43A:freetext
+Free Text:UAAA Ground Freetext\47:freetext
+Free Text:UAAA Ground Freetext\48:freetext
+Free Text:UAAA Ground Freetext\49:freetext
+Free Text:UAAA Ground Freetext\50:freetext
+Free Text:UAAA Ground Freetext\51:freetext
+Free Text:UAAA Ground Freetext\52:freetext
+Free Text:UAAA Ground Freetext\53:freetext
+Free Text:UAAA Ground Freetext\54:freetext
+Free Text:UAAA Ground Freetext\55:freetext
+Free Text:UAAA Ground Freetext\56:freetext
+Free Text:UAAA Ground Freetext\59:freetext
+Free Text:UAAA Ground Freetext\59A:freetext
+Free Text:UAAA Ground Freetext\60:freetext
+Free Text:UAAA Ground Freetext\601:freetext
+Free Text:UAAA Ground Freetext\601A:freetext
+Free Text:UAAA Ground Freetext\601B:freetext
+Free Text:UAAA Ground Freetext\602:freetext
+Free Text:UAAA Ground Freetext\602A:freetext
+Free Text:UAAA Ground Freetext\602B:freetext
+Free Text:UAAA Ground Freetext\603:freetext
+Free Text:UAAA Ground Freetext\603A:freetext
+Free Text:UAAA Ground Freetext\603B:freetext
+Free Text:UAAA Ground Freetext\604:freetext
+Free Text:UAAA Ground Freetext\604A:freetext
+Free Text:UAAA Ground Freetext\604B:freetext
+Free Text:UAAA Ground Freetext\605:freetext
+Free Text:UAAA Ground Freetext\605A:freetext
+Free Text:UAAA Ground Freetext\605B:freetext
+Free Text:UAAA Ground Freetext\606:freetext
+Free Text:UAAA Ground Freetext\607:freetext
+Free Text:UAAA Ground Freetext\607A:freetext
+Free Text:UAAA Ground Freetext\607B:freetext
+Free Text:UAAA Ground Freetext\60A:freetext
+Free Text:UAAA Ground Freetext\79:freetext
+Free Text:UAAA Ground Freetext\801:freetext
+Free Text:UAAA Ground Freetext\802:freetext
+Free Text:UAAA Ground Freetext\803:freetext
+Free Text:UAAA Ground Freetext\804:freetext
+Free Text:UAAA Ground Freetext\806:freetext
+Free Text:UAAA Ground Freetext\A:freetext
+Free Text:UAAA Ground Freetext\A2:freetext
+Free Text:UAAA Ground Freetext\A3:freetext
+Free Text:UAAA Ground Freetext\A4:freetext
+Free Text:UAAA Ground Freetext\A5:freetext
+Free Text:UAAA Ground Freetext\B:freetext
+Free Text:UAAA Ground Freetext\C:freetext
+Free Text:UAAA Ground Freetext\D:freetext
+Free Text:UAAA Ground Freetext\E:freetext
+Free Text:UAAA Ground Freetext\F:freetext
+Free Text:UAAA Ground Freetext\H:freetext
+Free Text:UAAA Ground Freetext\H1:freetext
+Free Text:UAAA Ground Freetext\K:freetext
+Free Text:UAAA Ground Freetext\K1:freetext
+Free Text:UAAA Ground Freetext\K2:freetext
+Free Text:UAAA Ground Freetext\L:freetext
+Free Text:UAAA Ground Freetext\L1:freetext
+Free Text:UAAH Ground Freetext\1:freetext
+Free Text:UAAH Ground Freetext\1:freetext
+Free Text:UAAH Ground Freetext\2:freetext
+Free Text:UAAH Ground Freetext\2:freetext
+Free Text:UAAH Ground Freetext\2:freetext
+Free Text:UAAH Ground Freetext\3:freetext
+Free Text:UAAH Ground Freetext\3:freetext
+Free Text:UAAH Ground Freetext\4:freetext
+Free Text:UAAH Ground Freetext\4:freetext
+Free Text:UAAH Ground Freetext\5:freetext
+Free Text:UAAH Ground Freetext\6:freetext
+Free Text:UAAH Ground Freetext\7:freetext
+Free Text:UAAH Ground Freetext\M:freetext
+Free Text:UAAH Ground Freetext\MILITARY APRON:freetext
+Free Text:UAAL Ground Freetext\1:freetext
+Free Text:UAAL Ground Freetext\2:freetext
+Free Text:UAAL Ground Freetext\5:freetext
+Free Text:UAAL Ground Freetext\6:freetext
 Free Text:UACC Astana_ground\01K:freetext
 Free Text:UACC Astana_ground\01M:freetext
 Free Text:UACC Astana_ground\02K:freetext
@@ -112,12 +328,10 @@ Free Text:UACC Astana_ground\E:freetext
 Free Text:UACC Astana_ground\F:freetext
 Free Text:UACC Astana_ground\G:freetext
 Free Text:UACC Astana_ground\H:freetext
-Free Text:UACC Astana_ground\I:freetext
 Free Text:UACC Astana_ground\J:freetext
 Free Text:UACC Astana_ground\K:freetext
 Free Text:UACC Astana_ground\L:freetext
 Free Text:UACC Astana_ground\M:freetext
-Free Text:UACC Astana_ground\O:freetext
 Free Text:UACC Astana_ground\P:freetext
 Free Text:UACC Astana_ground\P:freetext
 Free Text:UACC Astana_ground\P:freetext
@@ -125,6 +339,8 @@ Free Text:UACC Astana_ground\P1:freetext
 Free Text:UACC Astana_ground\P2:freetext
 Free Text:UACC Astana_ground\P3:freetext
 Free Text:UACC Astana_ground\P4:freetext
+Free Text:UACC Astana_ground\Q:freetext
+Free Text:UACC Astana_ground\W:freetext
 Free Text:UACK Kokshetau_ground\1:freetext
 Free Text:UACK Kokshetau_ground\2:freetext
 Free Text:UACK Kokshetau_ground\3:freetext
@@ -133,6 +349,7 @@ Free Text:UACK Kokshetau_ground\5:freetext
 Free Text:UACK Kokshetau_ground\6:freetext
 Free Text:UACK Kokshetau_ground\7:freetext
 Free Text:UACK Kokshetau_ground\8:freetext
+Free Text:UACK Kokshetau_ground\A:freetext
 Free Text:UACP Petropavlovsk_ground\1:freetext
 Free Text:UACP Petropavlovsk_ground\2:freetext
 Free Text:UACP Petropavlovsk_ground\3:freetext
@@ -141,66 +358,92 @@ Free Text:UACP Petropavlovsk_ground\5:freetext
 Free Text:UACP Petropavlovsk_ground\6:freetext
 Free Text:UACP Petropavlovsk_ground\7:freetext
 Free Text:UACP Petropavlovsk_ground\8:freetext
-Free Text:UADD Ground Freetext\1:freetext
-Free Text:UADD Ground Freetext\2:freetext
-Free Text:UADD Ground Freetext\3:freetext
-Free Text:UADD Ground Freetext\4:freetext
-Free Text:UADD Ground Freetext\5:freetext
-Free Text:UADD Ground Freetext\6:freetext
-Free Text:UADD Ground Freetext\TWY A:freetext
-Free Text:UADD Ground Freetext\TWY B:freetext
-Free Text:UADD Ground Freetext\TWY C:freetext
-Free Text:UADD Ground Freetext\TWY D:freetext
-Free Text:UADD Ground Freetext\TWY E:freetext
-Free Text:UADD Ground Freetext\TWY G:freetext
-Free Text:UADD Ground Freetext\TWY P:freetext
-Free Text:UADD Ground Freetext\TWY P:freetext
-Free Text:UADD Ground Freetext\TWY P:freetext
-Free Text:UADD Ground Freetext\TWY P:freetext
+Free Text:UACP Petropavlovsk_ground\A:freetext
+Free Text:UADD Ground Freetext\01:freetext
+Free Text:UADD Ground Freetext\02:freetext
+Free Text:UADD Ground Freetext\03:freetext
+Free Text:UADD Ground Freetext\04:freetext
+Free Text:UADD Ground Freetext\05:freetext
+Free Text:UADD Ground Freetext\06:freetext
+Free Text:UADD Ground Freetext\1A:freetext
+Free Text:UADD Ground Freetext\1B:freetext
+Free Text:UADD Ground Freetext\A:freetext
+Free Text:UADD Ground Freetext\B:freetext
+Free Text:UADD Ground Freetext\C:freetext
+Free Text:UADD Ground Freetext\D:freetext
+Free Text:UADD Ground Freetext\E:freetext
+Free Text:UADD Ground Freetext\F:freetext
+Free Text:UADD Ground Freetext\MAIN P:freetext
 Free Text:UAII Ground Freetext\1:freetext
-Free Text:UAII Ground Freetext\10:freetext
-Free Text:UAII Ground Freetext\11:freetext
-Free Text:UAII Ground Freetext\12:freetext
-Free Text:UAII Ground Freetext\13:freetext
-Free Text:UAII Ground Freetext\14:freetext
-Free Text:UAII Ground Freetext\15:freetext
-Free Text:UAII Ground Freetext\16:freetext
 Free Text:UAII Ground Freetext\17:freetext
 Free Text:UAII Ground Freetext\18:freetext
 Free Text:UAII Ground Freetext\19:freetext
 Free Text:UAII Ground Freetext\19A:freetext
+Free Text:UAII Ground Freetext\1A:freetext
+Free Text:UAII Ground Freetext\1B:freetext
 Free Text:UAII Ground Freetext\2:freetext
 Free Text:UAII Ground Freetext\20:freetext
 Free Text:UAII Ground Freetext\21:freetext
 Free Text:UAII Ground Freetext\22:freetext
 Free Text:UAII Ground Freetext\3:freetext
 Free Text:UAII Ground Freetext\4:freetext
+Free Text:UAII Ground Freetext\4A:freetext
+Free Text:UAII Ground Freetext\4B:freetext
 Free Text:UAII Ground Freetext\5:freetext
+Free Text:UAII Ground Freetext\54:freetext
 Free Text:UAII Ground Freetext\55:freetext
 Free Text:UAII Ground Freetext\56:freetext
 Free Text:UAII Ground Freetext\57:freetext
 Free Text:UAII Ground Freetext\58:freetext
 Free Text:UAII Ground Freetext\59:freetext
+Free Text:UAII Ground Freetext\5A:freetext
+Free Text:UAII Ground Freetext\5B:freetext
 Free Text:UAII Ground Freetext\6:freetext
 Free Text:UAII Ground Freetext\60:freetext
 Free Text:UAII Ground Freetext\61:freetext
 Free Text:UAII Ground Freetext\62:freetext
 Free Text:UAII Ground Freetext\7:freetext
+Free Text:UAII Ground Freetext\7L:freetext
+Free Text:UAII Ground Freetext\7R:freetext
 Free Text:UAII Ground Freetext\8:freetext
 Free Text:UAII Ground Freetext\9:freetext
+Free Text:UAII Ground Freetext\9L:freetext
+Free Text:UAII Ground Freetext\9R:freetext
+Free Text:UAII Ground Freetext\A:freetext
+Free Text:UAII Ground Freetext\A:freetext
+Free Text:UAII Ground Freetext\B:freetext
+Free Text:UAII Ground Freetext\C:freetext
+Free Text:UAII Ground Freetext\D:freetext
+Free Text:UAII Ground Freetext\E:freetext
+Free Text:UAII Ground Freetext\H:freetext
+Free Text:UAII Ground Freetext\K:freetext
+Free Text:UAII Ground Freetext\L:freetext
+Free Text:UAII Ground Freetext\MAIN P:freetext
+Free Text:UAII Ground Freetext\MAIN P:freetext
 Free Text:UAII Ground Freetext\Military Apron:freetext
-Free Text:UAII Ground Freetext\P:freetext
-Free Text:UAII Ground Freetext\P:freetext
-Free Text:UAII Ground Freetext\TWY A:freetext
-Free Text:UAII Ground Freetext\TWY A:freetext
-Free Text:UAII Ground Freetext\TWY B:freetext
-Free Text:UAII Ground Freetext\TWY C:freetext
-Free Text:UAII Ground Freetext\TWY D:freetext
-Free Text:UAII Ground Freetext\TWY E:freetext
-Free Text:UAII Ground Freetext\TWY E:freetext
-Free Text:UAII Ground Freetext\TWY K:freetext
-Free Text:UAII Ground Freetext\TWY L:freetext
-Free Text:UAII Ground Freetext\TWY P:freetext
+Free Text:UAIT Ground Freetext\1:freetext
+Free Text:UAIT Ground Freetext\2:freetext
+Free Text:UAIT Ground Freetext\3:freetext
+Free Text:UAIT Ground Freetext\3A:freetext
+Free Text:UAIT Ground Freetext\4:freetext
+Free Text:UAIT Ground Freetext\4A:freetext
+Free Text:UAIT Ground Freetext\5:freetext
+Free Text:UAIT Ground Freetext\6:freetext
+Free Text:UAIT Ground Freetext\7:freetext
+Free Text:UAIT Ground Freetext\8:freetext
+Free Text:UAIT Ground Freetext\A:freetext
+Free Text:UAIT Ground Freetext\B:freetext
+Free Text:UAKB Balapan_ground\1:freetext
+Free Text:UAKB Balapan_ground\2:freetext
+Free Text:UAKB Balapan_ground\3:freetext
+Free Text:UAKB Balapan_ground\4:freetext
+Free Text:UAKB Balapan_ground\5:freetext
+Free Text:UAKB Balapan_ground\6:freetext
+Free Text:UAKB Balapan_ground\7:freetext
+Free Text:UAKB Balapan_ground\8:freetext
+Free Text:UAKB Balapan_ground\A:freetext
+Free Text:UAKB Balapan_ground\Apron Grass:freetext
+Free Text:UAKB Balapan_ground\B:freetext
 Free Text:UAKD Zhezkazgan_graond\01:freetext
 Free Text:UAKD Zhezkazgan_graond\02:freetext
 Free Text:UAKD Zhezkazgan_graond\03:freetext
@@ -208,6 +451,9 @@ Free Text:UAKD Zhezkazgan_graond\04:freetext
 Free Text:UAKD Zhezkazgan_graond\05:freetext
 Free Text:UAKD Zhezkazgan_graond\06:freetext
 Free Text:UAKD Zhezkazgan_graond\07:freetext
+Free Text:UAKD Zhezkazgan_graond\A:freetext
+Free Text:UAKD Zhezkazgan_graond\B:freetext
+Free Text:UAKD Zhezkazgan_graond\C:freetext
 Free Text:UAKK Karaganda_ground\1:freetext
 Free Text:UAKK Karaganda_ground\10:freetext
 Free Text:UAKK Karaganda_ground\11:freetext
@@ -233,12 +479,15 @@ Free Text:UAKK Karaganda_ground\2A:freetext
 Free Text:UAKK Karaganda_ground\3:freetext
 Free Text:UAKK Karaganda_ground\3A:freetext
 Free Text:UAKK Karaganda_ground\4:freetext
+Free Text:UAKK Karaganda_ground\4:freetext
 Free Text:UAKK Karaganda_ground\5:freetext
 Free Text:UAKK Karaganda_ground\6:freetext
 Free Text:UAKK Karaganda_ground\6A:freetext
 Free Text:UAKK Karaganda_ground\7:freetext
 Free Text:UAKK Karaganda_ground\8:freetext
 Free Text:UAKK Karaganda_ground\9:freetext
+Free Text:UAKK Karaganda_ground\A:freetext
+Free Text:UAKK Karaganda_ground\B:freetext
 Free Text:UAOO Ground Freetext\1:freetext
 Free Text:UAOO Ground Freetext\10:freetext
 Free Text:UAOO Ground Freetext\2:freetext
@@ -249,8 +498,47 @@ Free Text:UAOO Ground Freetext\6:freetext
 Free Text:UAOO Ground Freetext\7:freetext
 Free Text:UAOO Ground Freetext\8:freetext
 Free Text:UAOO Ground Freetext\9:freetext
-Free Text:UAOO Ground Freetext\TWY A:freetext
-Free Text:UAOO Ground Freetext\TWY B:freetext
+Free Text:UAOO Ground Freetext\A:freetext
+Free Text:UAOO Ground Freetext\B:freetext
+Free Text:UARR Ground Freetext\1:freetext
+Free Text:UARR Ground Freetext\10:freetext
+Free Text:UARR Ground Freetext\11:freetext
+Free Text:UARR Ground Freetext\12:freetext
+Free Text:UARR Ground Freetext\2:freetext
+Free Text:UARR Ground Freetext\3:freetext
+Free Text:UARR Ground Freetext\3A:freetext
+Free Text:UARR Ground Freetext\3B:freetext
+Free Text:UARR Ground Freetext\4:freetext
+Free Text:UARR Ground Freetext\5:freetext
+Free Text:UARR Ground Freetext\6:freetext
+Free Text:UARR Ground Freetext\7:freetext
+Free Text:UARR Ground Freetext\8:freetext
+Free Text:UARR Ground Freetext\9:freetext
+Free Text:UARR Ground Freetext\A:freetext
+Free Text:UARR Ground Freetext\B:freetext
+Free Text:UASK Ground Freetext\1:freetext
+Free Text:UASK Ground Freetext\10:freetext
+Free Text:UASK Ground Freetext\11:freetext
+Free Text:UASK Ground Freetext\12:freetext
+Free Text:UASK Ground Freetext\15:freetext
+Free Text:UASK Ground Freetext\16:freetext
+Free Text:UASK Ground Freetext\17:freetext
+Free Text:UASK Ground Freetext\18:freetext
+Free Text:UASK Ground Freetext\19:freetext
+Free Text:UASK Ground Freetext\2:freetext
+Free Text:UASK Ground Freetext\20:freetext
+Free Text:UASK Ground Freetext\21:freetext
+Free Text:UASK Ground Freetext\22:freetext
+Free Text:UASK Ground Freetext\3:freetext
+Free Text:UASK Ground Freetext\4:freetext
+Free Text:UASK Ground Freetext\5:freetext
+Free Text:UASK Ground Freetext\6:freetext
+Free Text:UASK Ground Freetext\7:freetext
+Free Text:UASK Ground Freetext\A:freetext
+Free Text:UASK Ground Freetext\B:freetext
+Free Text:UASK Ground Freetext\C:freetext
+Free Text:UASK Ground Freetext\D:freetext
+Free Text:UASK Ground Freetext\MAIN:freetext
 Free Text:UASP Pavlodar_ground\1:freetext
 Free Text:UASP Pavlodar_ground\10:freetext
 Free Text:UASP Pavlodar_ground\11:freetext
@@ -270,7 +558,63 @@ Free Text:UASP Pavlodar_ground\6:freetext
 Free Text:UASP Pavlodar_ground\7:freetext
 Free Text:UASP Pavlodar_ground\8:freetext
 Free Text:UASP Pavlodar_ground\9:freetext
+Free Text:UASP Pavlodar_ground\A:freetext
+Free Text:UASS Ground Freetext\1:freetext
+Free Text:UASS Ground Freetext\2:freetext
+Free Text:UASS Ground Freetext\3:freetext
+Free Text:UASS Ground Freetext\4:freetext
+Free Text:UASS Ground Freetext\5:freetext
+Free Text:UASS Ground Freetext\6:freetext
+Free Text:UASS Ground Freetext\7:freetext
+Free Text:UASS Ground Freetext\A:freetext
+Free Text:UASU Ground Freetext\1:freetext
+Free Text:UASU Ground Freetext\1A:freetext
+Free Text:UASU Ground Freetext\2:freetext
+Free Text:UASU Ground Freetext\2A:freetext
+Free Text:UASU Ground Freetext\A:freetext
+Free Text:UASU Ground Freetext\B:freetext
+Free Text:UASZ Ground Freetext\1:freetext
+Free Text:UASZ Ground Freetext\2:freetext
+Free Text:UASZ Ground Freetext\A:freetext
+Free Text:UATE Ground Freetext\107:freetext
+Free Text:UATE Ground Freetext\108:freetext
+Free Text:UATE Ground Freetext\109:freetext
+Free Text:UATE Ground Freetext\110:freetext
+Free Text:UATE Ground Freetext\111:freetext
+Free Text:UATE Ground Freetext\112:freetext
+Free Text:UATE Ground Freetext\113:freetext
+Free Text:UATE Ground Freetext\114:freetext
+Free Text:UATE Ground Freetext\199:freetext
+Free Text:UATE Ground Freetext\1A:freetext
+Free Text:UATE Ground Freetext\20:freetext
+Free Text:UATE Ground Freetext\200:freetext
+Free Text:UATE Ground Freetext\201:freetext
+Free Text:UATE Ground Freetext\202:freetext
+Free Text:UATE Ground Freetext\203:freetext
+Free Text:UATE Ground Freetext\204:freetext
+Free Text:UATE Ground Freetext\205:freetext
+Free Text:UATE Ground Freetext\206:freetext
+Free Text:UATE Ground Freetext\207:freetext
+Free Text:UATE Ground Freetext\208:freetext
+Free Text:UATE Ground Freetext\21:freetext
+Free Text:UATE Ground Freetext\22:freetext
+Free Text:UATE Ground Freetext\23:freetext
+Free Text:UATE Ground Freetext\24:freetext
+Free Text:UATE Ground Freetext\A:freetext
+Free Text:UATE Ground Freetext\B:freetext
+Free Text:UATZ Ground Freetext\1:freetext
+Free Text:UATZ Ground Freetext\1:freetext
+Free Text:UATZ Ground Freetext\2:freetext
+Free Text:UATZ Ground Freetext\2:freetext
+Free Text:UATZ Ground Freetext\3:freetext
+Free Text:UATZ Ground Freetext\H:freetext
 Free Text:UAUU Kostanay_ground\1:freetext
+Free Text:UAUU Kostanay_ground\10:freetext
+Free Text:UAUU Kostanay_ground\10A:freetext
+Free Text:UAUU Kostanay_ground\11:freetext
+Free Text:UAUU Kostanay_ground\11A:freetext
+Free Text:UAUU Kostanay_ground\12:freetext
+Free Text:UAUU Kostanay_ground\12A:freetext
 Free Text:UAUU Kostanay_ground\1A:freetext
 Free Text:UAUU Kostanay_ground\2:freetext
 Free Text:UAUU Kostanay_ground\2A:freetext
@@ -278,16 +622,18 @@ Free Text:UAUU Kostanay_ground\3:freetext
 Free Text:UAUU Kostanay_ground\3A:freetext
 Free Text:UAUU Kostanay_ground\4:freetext
 Free Text:UAUU Kostanay_ground\4A:freetext
-Free Text:UAUU Kostanay_ground\5:freetext
-Free Text:UAUU Kostanay_ground\5A:freetext
-Free Text:UAUU Kostanay_ground\6:freetext
-Free Text:UAUU Kostanay_ground\6A:freetext
-Free Text:UAUU Kostanay_ground\7:freetext
-Free Text:UAUU Kostanay_ground\7A:freetext
 Free Text:UAUU Kostanay_ground\8:freetext
 Free Text:UAUU Kostanay_ground\8A:freetext
 Free Text:UAUU Kostanay_ground\9:freetext
 Free Text:UAUU Kostanay_ground\9A:freetext
+Free Text:UAUU Kostanay_ground\A:freetext
+Free Text:UAUU Kostanay_ground\B:freetext
+Free Text:UAUU Kostanay_ground\C:freetext
+Free Text:UAUU Kostanay_ground\D:freetext
+Free Text:UAUU Kostanay_ground\E:freetext
+Free Text:UAUU Kostanay_ground\F:freetext
+Free Text:UAUU Kostanay_ground\F:freetext
+Free Text:UAUU Kostanay_ground\L:freetext
 Free Text:UCFL Ground Freetext\1:freetext
 Free Text:UCFL Ground Freetext\2:freetext
 Free Text:UCFL Ground Freetext\3:freetext
@@ -295,12 +641,10 @@ Free Text:UCFL Ground Freetext\4:freetext
 Free Text:UCFL Ground Freetext\5:freetext
 Free Text:UCFL Ground Freetext\6:freetext
 Free Text:UCFL Ground Freetext\7:freetext
+Free Text:UCFL Ground Freetext\A:freetext
+Free Text:UCFL Ground Freetext\B:freetext
 Free Text:UCFL Ground Freetext\M1:freetext
 Free Text:UCFL Ground Freetext\M2:freetext
-Free Text:UCFL Ground Freetext\TWY A:freetext
-Free Text:UCFL Ground Freetext\TWY A:freetext
-Free Text:UCFL Ground Freetext\TWY B:freetext
-Free Text:UCFL Ground Freetext\TWY B:freetext
 Free Text:UCFM Ground Freetext\A1:freetext
 Free Text:UCFM Ground Freetext\A10:freetext
 Free Text:UCFM Ground Freetext\A11:freetext
@@ -422,161 +766,186 @@ Free Text:UCFO Ground Freetext\B:freetext
 Free Text:UCFO Ground Freetext\C:freetext
 Free Text:UCFO Ground Freetext\M1:freetext
 Free Text:UCFO Ground Freetext\M2:freetext
-Free Text:UTAA Groundlayout\1:freetext
-Free Text:UTAA Groundlayout\101:freetext
-Free Text:UTAA Groundlayout\102:freetext
-Free Text:UTAA Groundlayout\103:freetext
-Free Text:UTAA Groundlayout\104:freetext
-Free Text:UTAA Groundlayout\105:freetext
-Free Text:UTAA Groundlayout\106:freetext
-Free Text:UTAA Groundlayout\107:freetext
-Free Text:UTAA Groundlayout\108:freetext
-Free Text:UTAA Groundlayout\109:freetext
-Free Text:UTAA Groundlayout\110:freetext
-Free Text:UTAA Groundlayout\111:freetext
-Free Text:UTAA Groundlayout\112:freetext
-Free Text:UTAA Groundlayout\113:freetext
-Free Text:UTAA Groundlayout\114:freetext
-Free Text:UTAA Groundlayout\116:freetext
-Free Text:UTAA Groundlayout\117:freetext
-Free Text:UTAA Groundlayout\118:freetext
-Free Text:UTAA Groundlayout\119:freetext
-Free Text:UTAA Groundlayout\120:freetext
-Free Text:UTAA Groundlayout\121:freetext
-Free Text:UTAA Groundlayout\122:freetext
-Free Text:UTAA Groundlayout\123:freetext
-Free Text:UTAA Groundlayout\124:freetext
-Free Text:UTAA Groundlayout\125:freetext
-Free Text:UTAA Groundlayout\126:freetext
-Free Text:UTAA Groundlayout\127:freetext
-Free Text:UTAA Groundlayout\128:freetext
-Free Text:UTAA Groundlayout\129:freetext
-Free Text:UTAA Groundlayout\130:freetext
-Free Text:UTAA Groundlayout\131:freetext
-Free Text:UTAA Groundlayout\132:freetext
-Free Text:UTAA Groundlayout\133:freetext
-Free Text:UTAA Groundlayout\134:freetext
-Free Text:UTAA Groundlayout\135:freetext
-Free Text:UTAA Groundlayout\201:freetext
-Free Text:UTAA Groundlayout\202:freetext
-Free Text:UTAA Groundlayout\203:freetext
-Free Text:UTAA Groundlayout\204:freetext
-Free Text:UTAA Groundlayout\205:freetext
-Free Text:UTAA Groundlayout\206:freetext
-Free Text:UTAA Groundlayout\207:freetext
-Free Text:UTAA Groundlayout\208:freetext
-Free Text:UTAA Groundlayout\209:freetext
-Free Text:UTAA Groundlayout\210:freetext
-Free Text:UTAA Groundlayout\211:freetext
-Free Text:UTAA Groundlayout\212:freetext
-Free Text:UTAA Groundlayout\213:freetext
-Free Text:UTAA Groundlayout\214:freetext
-Free Text:UTAA Groundlayout\215:freetext
-Free Text:UTAA Groundlayout\216:freetext
-Free Text:UTAA Groundlayout\217:freetext
-Free Text:UTAA Groundlayout\218:freetext
-Free Text:UTAA Groundlayout\219:freetext
-Free Text:UTAA Groundlayout\220:freetext
-Free Text:UTAA Groundlayout\301:freetext
-Free Text:UTAA Groundlayout\302:freetext
-Free Text:UTAA Groundlayout\303:freetext
-Free Text:UTAA Groundlayout\304:freetext
-Free Text:UTAA Groundlayout\305:freetext
-Free Text:UTAA Groundlayout\401:freetext
-Free Text:UTAA Groundlayout\402:freetext
-Free Text:UTAA Groundlayout\403:freetext
-Free Text:UTAA Groundlayout\501:freetext
-Free Text:UTAA Groundlayout\502:freetext
-Free Text:UTAA Groundlayout\503:freetext
-Free Text:UTAA Groundlayout\504:freetext
-Free Text:UTAA Groundlayout\505:freetext
-Free Text:UTAA Groundlayout\A:freetext
-Free Text:UTAA Groundlayout\A1:freetext
-Free Text:UTAA Groundlayout\A101:freetext
-Free Text:UTAA Groundlayout\A102:freetext
-Free Text:UTAA Groundlayout\A103:freetext
-Free Text:UTAA Groundlayout\A104:freetext
-Free Text:UTAA Groundlayout\A107:freetext
-Free Text:UTAA Groundlayout\A108:freetext
-Free Text:UTAA Groundlayout\A109:freetext
-Free Text:UTAA Groundlayout\A111:freetext
-Free Text:UTAA Groundlayout\A112:freetext
-Free Text:UTAA Groundlayout\A113:freetext
-Free Text:UTAA Groundlayout\A114:freetext
-Free Text:UTAA Groundlayout\A115:freetext
-Free Text:UTAA Groundlayout\A130:freetext
-Free Text:UTAA Groundlayout\A131:freetext
-Free Text:UTAA Groundlayout\A132:freetext
-Free Text:UTAA Groundlayout\A135:freetext
-Free Text:UTAA Groundlayout\A2:freetext
-Free Text:UTAA Groundlayout\A3:freetext
-Free Text:UTAA Groundlayout\A4:freetext
-Free Text:UTAA Groundlayout\A401:freetext
-Free Text:UTAA Groundlayout\A403:freetext
-Free Text:UTAA Groundlayout\A5:freetext
-Free Text:UTAA Groundlayout\A6:freetext
-Free Text:UTAA Groundlayout\ACFT:freetext
-Free Text:UTAA Groundlayout\B:freetext
-Free Text:UTAA Groundlayout\B1:freetext
-Free Text:UTAA Groundlayout\B101:freetext
-Free Text:UTAA Groundlayout\B102:freetext
-Free Text:UTAA Groundlayout\B103:freetext
-Free Text:UTAA Groundlayout\B104:freetext
-Free Text:UTAA Groundlayout\B107:freetext
-Free Text:UTAA Groundlayout\B108:freetext
-Free Text:UTAA Groundlayout\B109:freetext
-Free Text:UTAA Groundlayout\B111:freetext
-Free Text:UTAA Groundlayout\B112:freetext
-Free Text:UTAA Groundlayout\B113:freetext
-Free Text:UTAA Groundlayout\B114:freetext
-Free Text:UTAA Groundlayout\B115:freetext
-Free Text:UTAA Groundlayout\B130:freetext
-Free Text:UTAA Groundlayout\B131:freetext
-Free Text:UTAA Groundlayout\B132:freetext
-Free Text:UTAA Groundlayout\B135:freetext
-Free Text:UTAA Groundlayout\B2:freetext
-Free Text:UTAA Groundlayout\B401:freetext
-Free Text:UTAA Groundlayout\B403:freetext
-Free Text:UTAA Groundlayout\C:freetext
-Free Text:UTAA Groundlayout\C:freetext
-Free Text:UTAA Groundlayout\C blue:freetext
-Free Text:UTAA Groundlayout\C1:freetext
-Free Text:UTAA Groundlayout\C2:freetext
-Free Text:UTAA Groundlayout\CARGO:freetext
-Free Text:UTAA Groundlayout\D:freetext
-Free Text:UTAA Groundlayout\D1:freetext
-Free Text:UTAA Groundlayout\D2:freetext
-Free Text:UTAA Groundlayout\E:freetext
-Free Text:UTAA Groundlayout\E1:freetext
-Free Text:UTAA Groundlayout\E2:freetext
-Free Text:UTAA Groundlayout\E3:freetext
-Free Text:UTAA Groundlayout\E4:freetext
-Free Text:UTAA Groundlayout\E5:freetext
-Free Text:UTAA Groundlayout\E6:freetext
-Free Text:UTAA Groundlayout\F:freetext
-Free Text:UTAA Groundlayout\F blue:freetext
-Free Text:UTAA Groundlayout\G:freetext
-Free Text:UTAA Groundlayout\H:freetext
-Free Text:UTAA Groundlayout\J1:freetext
-Free Text:UTAA Groundlayout\J2:freetext
-Free Text:UTAA Groundlayout\K:freetext
-Free Text:UTAA Groundlayout\K1:freetext
-Free Text:UTAA Groundlayout\K2:freetext
-Free Text:UTAA Groundlayout\L:freetext
-Free Text:UTAA Groundlayout\L blue:freetext
-Free Text:UTAA Groundlayout\L1:freetext
-Free Text:UTAA Groundlayout\L2:freetext
-Free Text:UTAA Groundlayout\M:freetext
-Free Text:UTAA Groundlayout\M blue:freetext
-Free Text:UTAA Groundlayout\M1:freetext
-Free Text:UTAA Groundlayout\M2:freetext
-Free Text:UTAA Groundlayout\N:freetext
-Free Text:UTAA Groundlayout\N1:freetext
-Free Text:UTAA Groundlayout\N2:freetext
-Free Text:UTAA Groundlayout\TERM-1:freetext
-Free Text:UTAA Groundlayout\TERM-2:freetext
-Free Text:UTAA Groundlayout\TWR:freetext
-Free Text:UTAA Groundlayout\VIP:freetext
+Free Text:UTAA Ground Freetext\101:freetext
+Free Text:UTAA Ground Freetext\101A:freetext
+Free Text:UTAA Ground Freetext\101B:freetext
+Free Text:UTAA Ground Freetext\102:freetext
+Free Text:UTAA Ground Freetext\102A:freetext
+Free Text:UTAA Ground Freetext\102B:freetext
+Free Text:UTAA Ground Freetext\103:freetext
+Free Text:UTAA Ground Freetext\103A:freetext
+Free Text:UTAA Ground Freetext\103B:freetext
+Free Text:UTAA Ground Freetext\104:freetext
+Free Text:UTAA Ground Freetext\104A:freetext
+Free Text:UTAA Ground Freetext\104B:freetext
+Free Text:UTAA Ground Freetext\105:freetext
+Free Text:UTAA Ground Freetext\106:freetext
+Free Text:UTAA Ground Freetext\107:freetext
+Free Text:UTAA Ground Freetext\107A:freetext
+Free Text:UTAA Ground Freetext\107B:freetext
+Free Text:UTAA Ground Freetext\108:freetext
+Free Text:UTAA Ground Freetext\108A:freetext
+Free Text:UTAA Ground Freetext\108B:freetext
+Free Text:UTAA Ground Freetext\109:freetext
+Free Text:UTAA Ground Freetext\109A:freetext
+Free Text:UTAA Ground Freetext\109B:freetext
+Free Text:UTAA Ground Freetext\110:freetext
+Free Text:UTAA Ground Freetext\111:freetext
+Free Text:UTAA Ground Freetext\111A:freetext
+Free Text:UTAA Ground Freetext\111B:freetext
+Free Text:UTAA Ground Freetext\112:freetext
+Free Text:UTAA Ground Freetext\112A:freetext
+Free Text:UTAA Ground Freetext\112B:freetext
+Free Text:UTAA Ground Freetext\113:freetext
+Free Text:UTAA Ground Freetext\113A:freetext
+Free Text:UTAA Ground Freetext\113B:freetext
+Free Text:UTAA Ground Freetext\114:freetext
+Free Text:UTAA Ground Freetext\114A:freetext
+Free Text:UTAA Ground Freetext\114B:freetext
+Free Text:UTAA Ground Freetext\115A:freetext
+Free Text:UTAA Ground Freetext\115B:freetext
+Free Text:UTAA Ground Freetext\116:freetext
+Free Text:UTAA Ground Freetext\117:freetext
+Free Text:UTAA Ground Freetext\118:freetext
+Free Text:UTAA Ground Freetext\119:freetext
+Free Text:UTAA Ground Freetext\120:freetext
+Free Text:UTAA Ground Freetext\121:freetext
+Free Text:UTAA Ground Freetext\122:freetext
+Free Text:UTAA Ground Freetext\123:freetext
+Free Text:UTAA Ground Freetext\124:freetext
+Free Text:UTAA Ground Freetext\125:freetext
+Free Text:UTAA Ground Freetext\126:freetext
+Free Text:UTAA Ground Freetext\127:freetext
+Free Text:UTAA Ground Freetext\128:freetext
+Free Text:UTAA Ground Freetext\129:freetext
+Free Text:UTAA Ground Freetext\130:freetext
+Free Text:UTAA Ground Freetext\130A:freetext
+Free Text:UTAA Ground Freetext\130B:freetext
+Free Text:UTAA Ground Freetext\131:freetext
+Free Text:UTAA Ground Freetext\131A:freetext
+Free Text:UTAA Ground Freetext\131B:freetext
+Free Text:UTAA Ground Freetext\132:freetext
+Free Text:UTAA Ground Freetext\132A:freetext
+Free Text:UTAA Ground Freetext\132B:freetext
+Free Text:UTAA Ground Freetext\133:freetext
+Free Text:UTAA Ground Freetext\134:freetext
+Free Text:UTAA Ground Freetext\135:freetext
+Free Text:UTAA Ground Freetext\135A:freetext
+Free Text:UTAA Ground Freetext\135B:freetext
+Free Text:UTAA Ground Freetext\201:freetext
+Free Text:UTAA Ground Freetext\202:freetext
+Free Text:UTAA Ground Freetext\203:freetext
+Free Text:UTAA Ground Freetext\204:freetext
+Free Text:UTAA Ground Freetext\205:freetext
+Free Text:UTAA Ground Freetext\206:freetext
+Free Text:UTAA Ground Freetext\207:freetext
+Free Text:UTAA Ground Freetext\208:freetext
+Free Text:UTAA Ground Freetext\209:freetext
+Free Text:UTAA Ground Freetext\210:freetext
+Free Text:UTAA Ground Freetext\211:freetext
+Free Text:UTAA Ground Freetext\212:freetext
+Free Text:UTAA Ground Freetext\213:freetext
+Free Text:UTAA Ground Freetext\214:freetext
+Free Text:UTAA Ground Freetext\215:freetext
+Free Text:UTAA Ground Freetext\215A:freetext
+Free Text:UTAA Ground Freetext\216:freetext
+Free Text:UTAA Ground Freetext\217:freetext
+Free Text:UTAA Ground Freetext\217A:freetext
+Free Text:UTAA Ground Freetext\218:freetext
+Free Text:UTAA Ground Freetext\219:freetext
+Free Text:UTAA Ground Freetext\220:freetext
+Free Text:UTAA Ground Freetext\301:freetext
+Free Text:UTAA Ground Freetext\302:freetext
+Free Text:UTAA Ground Freetext\302A:freetext
+Free Text:UTAA Ground Freetext\302B:freetext
+Free Text:UTAA Ground Freetext\303A:freetext
+Free Text:UTAA Ground Freetext\303B:freetext
+Free Text:UTAA Ground Freetext\304:freetext
+Free Text:UTAA Ground Freetext\305A:freetext
+Free Text:UTAA Ground Freetext\305B:freetext
+Free Text:UTAA Ground Freetext\306A:freetext
+Free Text:UTAA Ground Freetext\306B:freetext
+Free Text:UTAA Ground Freetext\401:freetext
+Free Text:UTAA Ground Freetext\402:freetext
+Free Text:UTAA Ground Freetext\403:freetext
+Free Text:UTAA Ground Freetext\501:freetext
+Free Text:UTAA Ground Freetext\502:freetext
+Free Text:UTAA Ground Freetext\503:freetext
+Free Text:UTAA Ground Freetext\504:freetext
+Free Text:UTAA Ground Freetext\505:freetext
+Free Text:UTAA Ground Freetext\A:freetext
+Free Text:UTAA Ground Freetext\A:freetext
+Free Text:UTAA Ground Freetext\A:freetext
+Free Text:UTAA Ground Freetext\A1:freetext
+Free Text:UTAA Ground Freetext\A2:freetext
+Free Text:UTAA Ground Freetext\A3:freetext
+Free Text:UTAA Ground Freetext\A4:freetext
+Free Text:UTAA Ground Freetext\A5:freetext
+Free Text:UTAA Ground Freetext\A6:freetext
+Free Text:UTAA Ground Freetext\Aircraft Engine Test Area:freetext
+Free Text:UTAA Ground Freetext\B:freetext
+Free Text:UTAA Ground Freetext\B:freetext
+Free Text:UTAA Ground Freetext\B1:freetext
+Free Text:UTAA Ground Freetext\B2:freetext
+Free Text:UTAA Ground Freetext\C:freetext
+Free Text:UTAA Ground Freetext\C:freetext
+Free Text:UTAA Ground Freetext\C:freetext
+Free Text:UTAA Ground Freetext\C blue:freetext
+Free Text:UTAA Ground Freetext\C orange:freetext
+Free Text:UTAA Ground Freetext\C1:freetext
+Free Text:UTAA Ground Freetext\C2:freetext
+Free Text:UTAA Ground Freetext\D:freetext
+Free Text:UTAA Ground Freetext\D:freetext
+Free Text:UTAA Ground Freetext\D1:freetext
+Free Text:UTAA Ground Freetext\D2:freetext
+Free Text:UTAA Ground Freetext\E:freetext
+Free Text:UTAA Ground Freetext\E:freetext
+Free Text:UTAA Ground Freetext\E:freetext
+Free Text:UTAA Ground Freetext\E1:freetext
+Free Text:UTAA Ground Freetext\E2:freetext
+Free Text:UTAA Ground Freetext\E3:freetext
+Free Text:UTAA Ground Freetext\E4:freetext
+Free Text:UTAA Ground Freetext\E5:freetext
+Free Text:UTAA Ground Freetext\E6:freetext
+Free Text:UTAA Ground Freetext\F:freetext
+Free Text:UTAA Ground Freetext\F:freetext
+Free Text:UTAA Ground Freetext\F blue:freetext
+Free Text:UTAA Ground Freetext\F blue:freetext
+Free Text:UTAA Ground Freetext\F orange:freetext
+Free Text:UTAA Ground Freetext\F orange:freetext
+Free Text:UTAA Ground Freetext\G:freetext
+Free Text:UTAA Ground Freetext\G:freetext
+Free Text:UTAA Ground Freetext\H:freetext
+Free Text:UTAA Ground Freetext\H:freetext
+Free Text:UTAA Ground Freetext\H:freetext
+Free Text:UTAA Ground Freetext\H:freetext
+Free Text:UTAA Ground Freetext\H:freetext
+Free Text:UTAA Ground Freetext\H:freetext
+Free Text:UTAA Ground Freetext\H:freetext
+Free Text:UTAA Ground Freetext\H:freetext
+Free Text:UTAA Ground Freetext\Isolated Aircraft Parking Area:freetext
+Free Text:UTAA Ground Freetext\J:freetext
+Free Text:UTAA Ground Freetext\J1:freetext
+Free Text:UTAA Ground Freetext\J2:freetext
+Free Text:UTAA Ground Freetext\K:freetext
+Free Text:UTAA Ground Freetext\K1:freetext
+Free Text:UTAA Ground Freetext\K2:freetext
+Free Text:UTAA Ground Freetext\L:freetext
+Free Text:UTAA Ground Freetext\L blue:freetext
+Free Text:UTAA Ground Freetext\L orange:freetext
+Free Text:UTAA Ground Freetext\L1:freetext
+Free Text:UTAA Ground Freetext\L2:freetext
+Free Text:UTAA Ground Freetext\M:freetext
+Free Text:UTAA Ground Freetext\M blue:freetext
+Free Text:UTAA Ground Freetext\M orange:freetext
+Free Text:UTAA Ground Freetext\M1:freetext
+Free Text:UTAA Ground Freetext\M2:freetext
+Free Text:UTAA Ground Freetext\N:freetext
+Free Text:UTAA Ground Freetext\N1:freetext
+Free Text:UTAA Ground Freetext\N2:freetext
+Free Text:UTAA Ground Freetext\R:freetext
+Free Text:UTAA Ground Freetext\VIP:freetext
+Free Text:UTAA Ground Freetext\VIP Helicopter:freetext
 Free Text:UTAE Ground Freetext\1:freetext
 Free Text:UTAE Ground Freetext\2:freetext
 Free Text:UTAE Ground Freetext\A:freetext
@@ -773,312 +1142,375 @@ Free Text:UTDL Ground Freetext\TWY C:freetext
 Free Text:UTDL Ground Freetext\TWY D:freetext
 Free Text:UTDL Ground Freetext\TWY E:freetext
 Free Text:UTDL Ground Freetext\TWY F:freetext
-Free Text:UTFA Ground Freetext\2:freetext
-Free Text:UTFA Ground Freetext\3:freetext
-Free Text:UTFA Ground Freetext\4:freetext
-Free Text:UTFA Ground Freetext\5:freetext
-Free Text:UTFA Ground Freetext\5:freetext
-Free Text:UTFA Ground Freetext\6:freetext
-Free Text:UTFA Ground Freetext\7:freetext
-Free Text:UTFA Ground Freetext\7:freetext
-Free Text:UTFA Ground Freetext\8:freetext
-Free Text:UTFA Ground Freetext\8:freetext
-Free Text:UTFA Ground Freetext\9:freetext
-Free Text:UTFA Ground Freetext\A:freetext
-Free Text:UTFF Ground Freetext\1:freetext
-Free Text:UTFF Ground Freetext\2:freetext
-Free Text:UTFF Ground Freetext\2:freetext
-Free Text:UTFF Ground Freetext\3:freetext
-Free Text:UTFF Ground Freetext\3:freetext
-Free Text:UTFF Ground Freetext\4:freetext
-Free Text:UTFF Ground Freetext\4:freetext
-Free Text:UTFF Ground Freetext\5:freetext
-Free Text:UTFF Ground Freetext\5:freetext
-Free Text:UTFF Ground Freetext\6:freetext
-Free Text:UTFF Ground Freetext\6:freetext
-Free Text:UTFF Ground Freetext\7:freetext
-Free Text:UTFF Ground Freetext\8:freetext
-Free Text:UTFF Ground Freetext\9:freetext
-Free Text:UTFK Ground Freetext\1:freetext
-Free Text:UTFK Ground Freetext\2:freetext
-Free Text:UTFK Ground Freetext\A:freetext
-Free Text:UTFN Ground Freetext\1:freetext
-Free Text:UTFN Ground Freetext\2:freetext
-Free Text:UTFN Ground Freetext\2A:freetext
-Free Text:UTFN Ground Freetext\3:freetext
-Free Text:UTFN Ground Freetext\4:freetext
-Free Text:UTFN Ground Freetext\5:freetext
-Free Text:UTFN Ground Freetext\6:freetext
-Free Text:UTFN Ground Freetext\7:freetext
-Free Text:UTFN Ground Freetext\A:freetext
-Free Text:UTFN Ground Freetext\B:freetext
-Free Text:UTFN Ground Freetext\C:freetext
-Free Text:UTFN Ground Freetext\D:freetext
-Free Text:UTFN Ground Freetext\E:freetext
-Free Text:UTFN Ground Freetext\M:freetext
-Free Text:UTNN Ground Freetext\1:freetext
-Free Text:UTNN Ground Freetext\2:freetext
-Free Text:UTNN Ground Freetext\3:freetext
-Free Text:UTNN Ground Freetext\4:freetext
-Free Text:UTNN Ground Freetext\5:freetext
-Free Text:UTNN Ground Freetext\6:freetext
-Free Text:UTNN Ground Freetext\7:freetext
-Free Text:UTNN Ground Freetext\B:freetext
-Free Text:UTNN Ground Freetext\E:freetext
-Free Text:UTNU Ground Freetext\1:freetext
-Free Text:UTNU Ground Freetext\2:freetext
-Free Text:UTNU Ground Freetext\2:freetext
-Free Text:UTNU Ground Freetext\3:freetext
-Free Text:UTNU Ground Freetext\4:freetext
-Free Text:UTNU Ground Freetext\T1:freetext
-Free Text:UTSA Ground Freetext\1:freetext
-Free Text:UTSA Ground Freetext\10:freetext
-Free Text:UTSA Ground Freetext\11:freetext
-Free Text:UTSA Ground Freetext\1A:freetext
-Free Text:UTSA Ground Freetext\2:freetext
-Free Text:UTSA Ground Freetext\3:freetext
-Free Text:UTSA Ground Freetext\3A:freetext
-Free Text:UTSA Ground Freetext\4:freetext
-Free Text:UTSA Ground Freetext\5:freetext
-Free Text:UTSA Ground Freetext\6:freetext
-Free Text:UTSA Ground Freetext\7:freetext
-Free Text:UTSA Ground Freetext\8:freetext
-Free Text:UTSA Ground Freetext\9:freetext
-Free Text:UTSA Ground Freetext\A:freetext
-Free Text:UTSA Ground Freetext\B:freetext
-Free Text:UTSA Ground Freetext\C:freetext
-Free Text:UTSA Ground Freetext\D:freetext
-Free Text:UTSA Ground Freetext\E:freetext
-Free Text:UTSA Ground Freetext\F:freetext
-Free Text:UTSA Ground Freetext\MAIN:freetext
-Free Text:UTSA Ground Freetext\MAIN:freetext
-Free Text:UTSB Ground Freetext\1:freetext
-Free Text:UTSB Ground Freetext\2:freetext
-Free Text:UTSB Ground Freetext\3:freetext
-Free Text:UTSB Ground Freetext\4:freetext
-Free Text:UTSB Ground Freetext\5:freetext
-Free Text:UTSB Ground Freetext\6:freetext
-Free Text:UTSB Ground Freetext\7:freetext
-Free Text:UTSB Ground Freetext\T-1:freetext
-Free Text:UTSB Ground Freetext\T-2:freetext
-Free Text:UTSB Ground Freetext\T-3:freetext
-Free Text:UTSB Ground Freetext\T-4:freetext
-Free Text:UTSB Ground Freetext\T-5:freetext
-Free Text:UTSK Ground Freetext\1A:freetext
-Free Text:UTSK Ground Freetext\2:freetext
-Free Text:UTSK Ground Freetext\3:freetext
-Free Text:UTSK Ground Freetext\4:freetext
-Free Text:UTSK Ground Freetext\5:freetext
-Free Text:UTSK Ground Freetext\6:freetext
-Free Text:UTSK Ground Freetext\7A:freetext
-Free Text:UTSK Ground Freetext\8A:freetext
-Free Text:UTSK Ground Freetext\MAIN TWY:freetext
-Free Text:UTSK Ground Freetext\TWY 1:freetext
-Free Text:UTSK Ground Freetext\TWY 2:freetext
-Free Text:UTSK Ground Freetext\TWY 3:freetext
-Free Text:UTSK Ground Freetext\TWY 4:freetext
-Free Text:UTSS Ground Freetext\1:freetext
-Free Text:UTSS Ground Freetext\10:freetext
-Free Text:UTSS Ground Freetext\10L:freetext
-Free Text:UTSS Ground Freetext\10R:freetext
-Free Text:UTSS Ground Freetext\11:freetext
-Free Text:UTSS Ground Freetext\11L:freetext
-Free Text:UTSS Ground Freetext\11R:freetext
-Free Text:UTSS Ground Freetext\12:freetext
-Free Text:UTSS Ground Freetext\13:freetext
-Free Text:UTSS Ground Freetext\14:freetext
-Free Text:UTSS Ground Freetext\15:freetext
-Free Text:UTSS Ground Freetext\16:freetext
-Free Text:UTSS Ground Freetext\17:freetext
-Free Text:UTSS Ground Freetext\18:freetext
-Free Text:UTSS Ground Freetext\19:freetext
-Free Text:UTSS Ground Freetext\2:freetext
-Free Text:UTSS Ground Freetext\20:freetext
-Free Text:UTSS Ground Freetext\21:freetext
-Free Text:UTSS Ground Freetext\22:freetext
-Free Text:UTSS Ground Freetext\23:freetext
-Free Text:UTSS Ground Freetext\24:freetext
-Free Text:UTSS Ground Freetext\3:freetext
-Free Text:UTSS Ground Freetext\4:freetext
-Free Text:UTSS Ground Freetext\5A:freetext
-Free Text:UTSS Ground Freetext\7:freetext
-Free Text:UTSS Ground Freetext\8:freetext
-Free Text:UTSS Ground Freetext\9:freetext
-Free Text:UTSS Ground Freetext\A:freetext
-Free Text:UTSS Ground Freetext\B:freetext
-Free Text:UTSS Ground Freetext\C:freetext
-Free Text:UTSS Ground Freetext\C:freetext
-Free Text:UTSS Ground Freetext\D:freetext
-Free Text:UTSS Ground Freetext\De-icing area 2:freetext
-Free Text:UTST Ground Freetext\4:freetext
-Free Text:UTST Ground Freetext\5:freetext
-Free Text:UTST Ground Freetext\6:freetext
-Free Text:UTST Ground Freetext\B:freetext
-Free Text:UTST Ground Freetext\M:freetext
-Free Text:UTTT Ground Freetext\1:freetext
-Free Text:UTTT Ground Freetext\1:freetext
-Free Text:UTTT Ground Freetext\10:freetext
-Free Text:UTTT Ground Freetext\11:freetext
-Free Text:UTTT Ground Freetext\11:freetext
-Free Text:UTTT Ground Freetext\12:freetext
-Free Text:UTTT Ground Freetext\12:freetext
-Free Text:UTTT Ground Freetext\13:freetext
-Free Text:UTTT Ground Freetext\13:freetext
-Free Text:UTTT Ground Freetext\14:freetext
-Free Text:UTTT Ground Freetext\14:freetext
-Free Text:UTTT Ground Freetext\15:freetext
-Free Text:UTTT Ground Freetext\15:freetext
-Free Text:UTTT Ground Freetext\16:freetext
-Free Text:UTTT Ground Freetext\17:freetext
-Free Text:UTTT Ground Freetext\17:freetext
-Free Text:UTTT Ground Freetext\2:freetext
-Free Text:UTTT Ground Freetext\2:freetext
-Free Text:UTTT Ground Freetext\2A:freetext
-Free Text:UTTT Ground Freetext\3:freetext
-Free Text:UTTT Ground Freetext\3:freetext
-Free Text:UTTT Ground Freetext\4:freetext
-Free Text:UTTT Ground Freetext\4:freetext
-Free Text:UTTT Ground Freetext\5:freetext
-Free Text:UTTT Ground Freetext\5:freetext
-Free Text:UTTT Ground Freetext\6:freetext
-Free Text:UTTT Ground Freetext\6:freetext
-Free Text:UTTT Ground Freetext\6A:freetext
-Free Text:UTTT Ground Freetext\7:freetext
-Free Text:UTTT Ground Freetext\7:freetext
-Free Text:UTTT Ground Freetext\8:freetext
-Free Text:UTTT Ground Freetext\9:freetext
-Free Text:UTTT Ground Freetext\A1:freetext
-Free Text:UTTT Ground Freetext\A1A:freetext
-Free Text:UTTT Ground Freetext\B:freetext
-Free Text:UTTT Ground Freetext\B:freetext
-Free Text:UTTT Ground Freetext\B1:freetext
-Free Text:UTTT Ground Freetext\B10:freetext
-Free Text:UTTT Ground Freetext\B11:freetext
-Free Text:UTTT Ground Freetext\B11A:freetext
-Free Text:UTTT Ground Freetext\B12:freetext
-Free Text:UTTT Ground Freetext\B14:freetext
-Free Text:UTTT Ground Freetext\B15:freetext
-Free Text:UTTT Ground Freetext\B16:freetext
-Free Text:UTTT Ground Freetext\B17:freetext
-Free Text:UTTT Ground Freetext\B18:freetext
-Free Text:UTTT Ground Freetext\B19:freetext
-Free Text:UTTT Ground Freetext\B1A:freetext
-Free Text:UTTT Ground Freetext\B2:freetext
-Free Text:UTTT Ground Freetext\B20:freetext
-Free Text:UTTT Ground Freetext\B3:freetext
-Free Text:UTTT Ground Freetext\B4:freetext
-Free Text:UTTT Ground Freetext\B5:freetext
-Free Text:UTTT Ground Freetext\B5A:freetext
-Free Text:UTTT Ground Freetext\B6:freetext
-Free Text:UTTT Ground Freetext\B8:freetext
-Free Text:UTTT Ground Freetext\B8A:freetext
-Free Text:UTTT Ground Freetext\B9:freetext
-Free Text:UTTT Ground Freetext\B9A:freetext
-Free Text:UTTT Ground Freetext\C15:freetext
-Free Text:UTTT Ground Freetext\C16:freetext
-Free Text:UTTT Ground Freetext\C17:freetext
-Free Text:UTTT Ground Freetext\C18:freetext
-Free Text:UTTT Ground Freetext\C19:freetext
-Free Text:UTTT Ground Freetext\C20:freetext
-Free Text:UTTT Ground Freetext\C21:freetext
-Free Text:UTTT Ground Freetext\C22:freetext
-Free Text:UTTT Ground Freetext\C23:freetext
-Free Text:UTTT Ground Freetext\C24:freetext
-Free Text:UTTT Ground Freetext\C25:freetext
-Free Text:UTTT Ground Freetext\C26:freetext
-Free Text:UTTT Ground Freetext\C27:freetext
-Free Text:UTTT Ground Freetext\C28:freetext
-Free Text:UTTT Ground Freetext\C36:freetext
-Free Text:UTTT Ground Freetext\C37:freetext
-Free Text:UTTT Ground Freetext\C37A:freetext
-Free Text:UTTT Ground Freetext\C39:freetext
-Free Text:UTTT Ground Freetext\C41:freetext
-Free Text:UTTT Ground Freetext\D1:freetext
-Free Text:UTTT Ground Freetext\D10:freetext
-Free Text:UTTT Ground Freetext\D2:freetext
-Free Text:UTTT Ground Freetext\D3:freetext
-Free Text:UTTT Ground Freetext\D4:freetext
-Free Text:UTTT Ground Freetext\D5:freetext
-Free Text:UTTT Ground Freetext\D5A:freetext
-Free Text:UTTT Ground Freetext\D6:freetext
-Free Text:UTTT Ground Freetext\D7:freetext
-Free Text:UTTT Ground Freetext\D7A:freetext
-Free Text:UTTT Ground Freetext\D8:freetext
-Free Text:UTTT Ground Freetext\D9:freetext
-Free Text:UTTT Ground Freetext\D9A:freetext
-Free Text:UTTT Ground Freetext\E1:freetext
-Free Text:UTTT Ground Freetext\E69:freetext
-Free Text:UTTT Ground Freetext\E69A:freetext
-Free Text:UTTT Ground Freetext\E70:freetext
-Free Text:UTTT Ground Freetext\E70A:freetext
-Free Text:UTTT Ground Freetext\E71:freetext
-Free Text:UTTT Ground Freetext\E72:freetext
-Free Text:UTTT Ground Freetext\E72A:freetext
-Free Text:UTTT Ground Freetext\E73:freetext
-Free Text:UTTT Ground Freetext\E74:freetext
-Free Text:UTTT Ground Freetext\E75:freetext
-Free Text:UTTT Ground Freetext\E76:freetext
-Free Text:UTTT Ground Freetext\E76A:freetext
-Free Text:UTTT Ground Freetext\E77:freetext
-Free Text:UTTT Ground Freetext\E78:freetext
-Free Text:UTTT Ground Freetext\E79:freetext
-Free Text:UTTT Ground Freetext\E79A:freetext
-Free Text:UTTT Ground Freetext\E80:freetext
-Free Text:UTTT Ground Freetext\E81:freetext
-Free Text:UTTT Ground Freetext\E82:freetext
-Free Text:UTTT Ground Freetext\E83:freetext
-Free Text:UTTT Ground Freetext\E83A:freetext
-Free Text:UTTT Ground Freetext\E84:freetext
-Free Text:UTTT Ground Freetext\F85:freetext
-Free Text:UTTT Ground Freetext\F86:freetext
-Free Text:UTTT Ground Freetext\F87:freetext
-Free Text:UTTT Ground Freetext\F88:freetext
-Free Text:UTTT Ground Freetext\F90:freetext
-Free Text:UTTT Ground Freetext\F94:freetext
-Free Text:UTTT Ground Freetext\F95:freetext
-Free Text:UTTT Ground Freetext\F96:freetext
-Free Text:UTTT Ground Freetext\F97:freetext
-Free Text:UTTT Ground Freetext\F98:freetext
-Free Text:UTTT Ground Freetext\G65:freetext
-Free Text:UTTT Ground Freetext\G66:freetext
-Free Text:UTTT Ground Freetext\G67:freetext
-Free Text:UTTT Ground Freetext\G68:freetext
-Free Text:UTTT Ground Freetext\Government Hangar:freetext
-Free Text:UTTT Ground Freetext\H:freetext
-Free Text:UTTT Ground Freetext\H1:freetext
-Free Text:UTTT Ground Freetext\H42:freetext
-Free Text:UTTT Ground Freetext\H43:freetext
-Free Text:UTTT Ground Freetext\H44:freetext
-Free Text:UTTT Ground Freetext\H45:freetext
-Free Text:UTTT Ground Freetext\H46:freetext
-Free Text:UTTT Ground Freetext\H47:freetext
-Free Text:UTTT Ground Freetext\H48:freetext
-Free Text:UTTT Ground Freetext\H49:freetext
-Free Text:UTTT Ground Freetext\H50:freetext
-Free Text:UTTT Ground Freetext\H51:freetext
-Free Text:UTTT Ground Freetext\H52:freetext
-Free Text:UTTT Ground Freetext\H53:freetext
-Free Text:UTTT Ground Freetext\H54:freetext
-Free Text:UTTT Ground Freetext\H55:freetext
-Free Text:UTTT Ground Freetext\H56:freetext
-Free Text:UTTT Ground Freetext\H57:freetext
-Free Text:UTTT Ground Freetext\Main:freetext
-Free Text:UTTT Ground Freetext\Main:freetext
-Free Text:UTTT Ground Freetext\Terminal 1:freetext
-Free Text:UTTT Ground Freetext\Terminal 2:freetext
-Free Text:UTTT Ground Freetext\Terminal 3:freetext
-Free Text:UTTT Ground Freetext\Uzbekistan Airways Hangar:freetext
+Free Text:UZFA Ground Freetext\2:freetext
+Free Text:UZFA Ground Freetext\3:freetext
+Free Text:UZFA Ground Freetext\4:freetext
+Free Text:UZFA Ground Freetext\5:freetext
+Free Text:UZFA Ground Freetext\5:freetext
+Free Text:UZFA Ground Freetext\6:freetext
+Free Text:UZFA Ground Freetext\7:freetext
+Free Text:UZFA Ground Freetext\7:freetext
+Free Text:UZFA Ground Freetext\8:freetext
+Free Text:UZFA Ground Freetext\8:freetext
+Free Text:UZFA Ground Freetext\9:freetext
+Free Text:UZFA Ground Freetext\A:freetext
+Free Text:UZFF Ground Freetext\1:freetext
+Free Text:UZFF Ground Freetext\10:freetext
+Free Text:UZFF Ground Freetext\2:freetext
+Free Text:UZFF Ground Freetext\3:freetext
+Free Text:UZFF Ground Freetext\4:freetext
+Free Text:UZFF Ground Freetext\5:freetext
+Free Text:UZFF Ground Freetext\6:freetext
+Free Text:UZFF Ground Freetext\7:freetext
+Free Text:UZFF Ground Freetext\8:freetext
+Free Text:UZFF Ground Freetext\9:freetext
+Free Text:UZFF Ground Freetext\A:freetext
+Free Text:UZFF Ground Freetext\B:freetext
+Free Text:UZFF Ground Freetext\C:freetext
+Free Text:UZFF Ground Freetext\D:freetext
+Free Text:UZFF Ground Freetext\E:freetext
+Free Text:UZFF Ground Freetext\F:freetext
+Free Text:UZFF Ground Freetext\G:freetext
+Free Text:UZFK Ground Freetext\1:freetext
+Free Text:UZFK Ground Freetext\2:freetext
+Free Text:UZFK Ground Freetext\A:freetext
+Free Text:UZFN Ground Freetext\1:freetext
+Free Text:UZFN Ground Freetext\2:freetext
+Free Text:UZFN Ground Freetext\2A:freetext
+Free Text:UZFN Ground Freetext\3:freetext
+Free Text:UZFN Ground Freetext\4:freetext
+Free Text:UZFN Ground Freetext\5:freetext
+Free Text:UZFN Ground Freetext\6:freetext
+Free Text:UZFN Ground Freetext\7:freetext
+Free Text:UZFN Ground Freetext\A:freetext
+Free Text:UZFN Ground Freetext\B:freetext
+Free Text:UZFN Ground Freetext\C:freetext
+Free Text:UZFN Ground Freetext\D:freetext
+Free Text:UZFN Ground Freetext\E:freetext
+Free Text:UZFN Ground Freetext\M:freetext
+Free Text:UZNN Ground Freetext\1:freetext
+Free Text:UZNN Ground Freetext\2:freetext
+Free Text:UZNN Ground Freetext\3:freetext
+Free Text:UZNN Ground Freetext\4:freetext
+Free Text:UZNN Ground Freetext\5:freetext
+Free Text:UZNN Ground Freetext\6:freetext
+Free Text:UZNN Ground Freetext\7:freetext
+Free Text:UZNN Ground Freetext\B:freetext
+Free Text:UZNN Ground Freetext\E:freetext
+Free Text:UZNU Ground Freetext\1:freetext
+Free Text:UZNU Ground Freetext\2:freetext
+Free Text:UZNU Ground Freetext\2A:freetext
+Free Text:UZNU Ground Freetext\3:freetext
+Free Text:UZNU Ground Freetext\4:freetext
+Free Text:UZNU Ground Freetext\5:freetext
+Free Text:UZNU Ground Freetext\6:freetext
+Free Text:UZNU Ground Freetext\T1:freetext
+Free Text:UZNU Ground Freetext\T2:freetext
+Free Text:UZNU Ground Freetext\T3:freetext
+Free Text:UZSA Ground Freetext\1:freetext
+Free Text:UZSA Ground Freetext\10:freetext
+Free Text:UZSA Ground Freetext\11:freetext
+Free Text:UZSA Ground Freetext\1A:freetext
+Free Text:UZSA Ground Freetext\2:freetext
+Free Text:UZSA Ground Freetext\3:freetext
+Free Text:UZSA Ground Freetext\3A:freetext
+Free Text:UZSA Ground Freetext\4:freetext
+Free Text:UZSA Ground Freetext\5:freetext
+Free Text:UZSA Ground Freetext\6:freetext
+Free Text:UZSA Ground Freetext\7:freetext
+Free Text:UZSA Ground Freetext\8:freetext
+Free Text:UZSA Ground Freetext\9:freetext
+Free Text:UZSA Ground Freetext\A:freetext
+Free Text:UZSA Ground Freetext\B:freetext
+Free Text:UZSA Ground Freetext\C:freetext
+Free Text:UZSA Ground Freetext\D:freetext
+Free Text:UZSA Ground Freetext\E:freetext
+Free Text:UZSA Ground Freetext\F:freetext
+Free Text:UZSA Ground Freetext\MAIN:freetext
+Free Text:UZSA Ground Freetext\MAIN:freetext
+Free Text:UZSB Ground Freetext\1:freetext
+Free Text:UZSB Ground Freetext\2:freetext
+Free Text:UZSB Ground Freetext\3:freetext
+Free Text:UZSB Ground Freetext\4:freetext
+Free Text:UZSB Ground Freetext\5:freetext
+Free Text:UZSB Ground Freetext\6:freetext
+Free Text:UZSB Ground Freetext\7:freetext
+Free Text:UZSB Ground Freetext\T-1:freetext
+Free Text:UZSB Ground Freetext\T-2:freetext
+Free Text:UZSB Ground Freetext\T-3:freetext
+Free Text:UZSB Ground Freetext\T-4:freetext
+Free Text:UZSB Ground Freetext\T-5:freetext
+Free Text:UZSH Ground Freetext\1:freetext
+Free Text:UZSH Ground Freetext\2:freetext
+Free Text:UZSK Ground Freetext\1A:freetext
+Free Text:UZSK Ground Freetext\2:freetext
+Free Text:UZSK Ground Freetext\3:freetext
+Free Text:UZSK Ground Freetext\4:freetext
+Free Text:UZSK Ground Freetext\5:freetext
+Free Text:UZSK Ground Freetext\6:freetext
+Free Text:UZSK Ground Freetext\7A:freetext
+Free Text:UZSK Ground Freetext\8A:freetext
+Free Text:UZSK Ground Freetext\TWY 2:freetext
+Free Text:UZSS Ground Freetext\1:freetext
+Free Text:UZSS Ground Freetext\10:freetext
+Free Text:UZSS Ground Freetext\10L:freetext
+Free Text:UZSS Ground Freetext\10R:freetext
+Free Text:UZSS Ground Freetext\11:freetext
+Free Text:UZSS Ground Freetext\11L:freetext
+Free Text:UZSS Ground Freetext\11R:freetext
+Free Text:UZSS Ground Freetext\12:freetext
+Free Text:UZSS Ground Freetext\13:freetext
+Free Text:UZSS Ground Freetext\14:freetext
+Free Text:UZSS Ground Freetext\15:freetext
+Free Text:UZSS Ground Freetext\16:freetext
+Free Text:UZSS Ground Freetext\17:freetext
+Free Text:UZSS Ground Freetext\18:freetext
+Free Text:UZSS Ground Freetext\19:freetext
+Free Text:UZSS Ground Freetext\2:freetext
+Free Text:UZSS Ground Freetext\20:freetext
+Free Text:UZSS Ground Freetext\21:freetext
+Free Text:UZSS Ground Freetext\22:freetext
+Free Text:UZSS Ground Freetext\23:freetext
+Free Text:UZSS Ground Freetext\24:freetext
+Free Text:UZSS Ground Freetext\3:freetext
+Free Text:UZSS Ground Freetext\4:freetext
+Free Text:UZSS Ground Freetext\5A:freetext
+Free Text:UZSS Ground Freetext\7:freetext
+Free Text:UZSS Ground Freetext\8:freetext
+Free Text:UZSS Ground Freetext\9:freetext
+Free Text:UZSS Ground Freetext\A:freetext
+Free Text:UZSS Ground Freetext\B:freetext
+Free Text:UZSS Ground Freetext\C:freetext
+Free Text:UZSS Ground Freetext\C:freetext
+Free Text:UZSS Ground Freetext\D:freetext
+Free Text:UZSS Ground Freetext\De-icing area 2:freetext
+Free Text:UZST Ground Freetext\1:freetext
+Free Text:UZST Ground Freetext\2:freetext
+Free Text:UZST Ground Freetext\3:freetext
+Free Text:UZST Ground Freetext\4:freetext
+Free Text:UZST Ground Freetext\5:freetext
+Free Text:UZST Ground Freetext\6:freetext
+Free Text:UZST Ground Freetext\A:freetext
+Free Text:UZST Ground Freetext\B:freetext
+Free Text:UZST Ground Freetext\C:freetext
+Free Text:UZST Ground Freetext\D:freetext
+Free Text:UZST Ground Freetext\E:freetext
+Free Text:UZST Ground Freetext\M:freetext
+Free Text:UZST Ground Freetext\M:freetext
+Free Text:UZTP Ground Freetext\1:freetext
+Free Text:UZTP Ground Freetext\10:freetext
+Free Text:UZTP Ground Freetext\11:freetext
+Free Text:UZTP Ground Freetext\12:freetext
+Free Text:UZTP Ground Freetext\14:freetext
+Free Text:UZTP Ground Freetext\15:freetext
+Free Text:UZTP Ground Freetext\16:freetext
+Free Text:UZTP Ground Freetext\17:freetext
+Free Text:UZTP Ground Freetext\18:freetext
+Free Text:UZTP Ground Freetext\19:freetext
+Free Text:UZTP Ground Freetext\2:freetext
+Free Text:UZTP Ground Freetext\20:freetext
+Free Text:UZTP Ground Freetext\20L:freetext
+Free Text:UZTP Ground Freetext\20R:freetext
+Free Text:UZTP Ground Freetext\21:freetext
+Free Text:UZTP Ground Freetext\22:freetext
+Free Text:UZTP Ground Freetext\22L:freetext
+Free Text:UZTP Ground Freetext\22R:freetext
+Free Text:UZTP Ground Freetext\23:freetext
+Free Text:UZTP Ground Freetext\23L:freetext
+Free Text:UZTP Ground Freetext\23R:freetext
+Free Text:UZTP Ground Freetext\24:freetext
+Free Text:UZTP Ground Freetext\24L:freetext
+Free Text:UZTP Ground Freetext\24R:freetext
+Free Text:UZTP Ground Freetext\3:freetext
+Free Text:UZTP Ground Freetext\4:freetext
+Free Text:UZTP Ground Freetext\5:freetext
+Free Text:UZTP Ground Freetext\6:freetext
+Free Text:UZTP Ground Freetext\7:freetext
+Free Text:UZTP Ground Freetext\8:freetext
+Free Text:UZTP Ground Freetext\9:freetext
+Free Text:UZTP Ground Freetext\A:freetext
+Free Text:UZTP Ground Freetext\B:freetext
+Free Text:UZTP Ground Freetext\C:freetext
+Free Text:UZTP Ground Freetext\D:freetext
+Free Text:UZTT Ground Freetext\1:freetext
+Free Text:UZTT Ground Freetext\11:freetext
+Free Text:UZTT Ground Freetext\12:freetext
+Free Text:UZTT Ground Freetext\13:freetext
+Free Text:UZTT Ground Freetext\14:freetext
+Free Text:UZTT Ground Freetext\15:freetext
+Free Text:UZTT Ground Freetext\2:freetext
+Free Text:UZTT Ground Freetext\2A:freetext
+Free Text:UZTT Ground Freetext\3:freetext
+Free Text:UZTT Ground Freetext\4:freetext
+Free Text:UZTT Ground Freetext\5:freetext
+Free Text:UZTT Ground Freetext\6:freetext
+Free Text:UZTT Ground Freetext\7:freetext
+Free Text:UZTT Ground Freetext\8:freetext
+Free Text:UZTT Ground Freetext\9:freetext
+Free Text:UZTT Ground Freetext\9:freetext
+Free Text:UZTT Ground Freetext\9A:freetext
+Free Text:UZTT Ground Freetext\?28:freetext
+Free Text:UZTT Ground Freetext\?36:freetext
+Free Text:UZTT Ground Freetext\?37:freetext
+Free Text:UZTT Ground Freetext\?41:freetext
+Free Text:UZTT Ground Freetext\A1:freetext
+Free Text:UZTT Ground Freetext\A1A:freetext
+Free Text:UZTT Ground Freetext\B:freetext
+Free Text:UZTT Ground Freetext\B:freetext
+Free Text:UZTT Ground Freetext\B1:freetext
+Free Text:UZTT Ground Freetext\B10:freetext
+Free Text:UZTT Ground Freetext\B11:freetext
+Free Text:UZTT Ground Freetext\B11A:freetext
+Free Text:UZTT Ground Freetext\B12:freetext
+Free Text:UZTT Ground Freetext\B14:freetext
+Free Text:UZTT Ground Freetext\B15:freetext
+Free Text:UZTT Ground Freetext\B16:freetext
+Free Text:UZTT Ground Freetext\B17:freetext
+Free Text:UZTT Ground Freetext\B18:freetext
+Free Text:UZTT Ground Freetext\B19:freetext
+Free Text:UZTT Ground Freetext\B1A:freetext
+Free Text:UZTT Ground Freetext\B2:freetext
+Free Text:UZTT Ground Freetext\B20:freetext
+Free Text:UZTT Ground Freetext\B3:freetext
+Free Text:UZTT Ground Freetext\B4:freetext
+Free Text:UZTT Ground Freetext\B5:freetext
+Free Text:UZTT Ground Freetext\B5A:freetext
+Free Text:UZTT Ground Freetext\B6:freetext
+Free Text:UZTT Ground Freetext\B8:freetext
+Free Text:UZTT Ground Freetext\B8A:freetext
+Free Text:UZTT Ground Freetext\B9:freetext
+Free Text:UZTT Ground Freetext\B9A:freetext
+Free Text:UZTT Ground Freetext\C15:freetext
+Free Text:UZTT Ground Freetext\C16:freetext
+Free Text:UZTT Ground Freetext\C17:freetext
+Free Text:UZTT Ground Freetext\C18:freetext
+Free Text:UZTT Ground Freetext\C19:freetext
+Free Text:UZTT Ground Freetext\C20:freetext
+Free Text:UZTT Ground Freetext\C21:freetext
+Free Text:UZTT Ground Freetext\C22:freetext
+Free Text:UZTT Ground Freetext\C23:freetext
+Free Text:UZTT Ground Freetext\C24:freetext
+Free Text:UZTT Ground Freetext\C25:freetext
+Free Text:UZTT Ground Freetext\C26:freetext
+Free Text:UZTT Ground Freetext\C27:freetext
+Free Text:UZTT Ground Freetext\C37A:freetext
+Free Text:UZTT Ground Freetext\C39:freetext
+Free Text:UZTT Ground Freetext\D1:freetext
+Free Text:UZTT Ground Freetext\D10:freetext
+Free Text:UZTT Ground Freetext\D14:freetext
+Free Text:UZTT Ground Freetext\D15:freetext
+Free Text:UZTT Ground Freetext\D16:freetext
+Free Text:UZTT Ground Freetext\D17:freetext
+Free Text:UZTT Ground Freetext\D18:freetext
+Free Text:UZTT Ground Freetext\D19:freetext
+Free Text:UZTT Ground Freetext\D2:freetext
+Free Text:UZTT Ground Freetext\D20:freetext
+Free Text:UZTT Ground Freetext\D21:freetext
+Free Text:UZTT Ground Freetext\D22:freetext
+Free Text:UZTT Ground Freetext\D4:freetext
+Free Text:UZTT Ground Freetext\D4:freetext
+Free Text:UZTT Ground Freetext\D5:freetext
+Free Text:UZTT Ground Freetext\D6:freetext
+Free Text:UZTT Ground Freetext\D7:freetext
+Free Text:UZTT Ground Freetext\D8:freetext
+Free Text:UZTT Ground Freetext\D9:freetext
+Free Text:UZTT Ground Freetext\E1:freetext
+Free Text:UZTT Ground Freetext\E69:freetext
+Free Text:UZTT Ground Freetext\E69A:freetext
+Free Text:UZTT Ground Freetext\E70:freetext
+Free Text:UZTT Ground Freetext\E70A:freetext
+Free Text:UZTT Ground Freetext\E71:freetext
+Free Text:UZTT Ground Freetext\E72:freetext
+Free Text:UZTT Ground Freetext\E73:freetext
+Free Text:UZTT Ground Freetext\E73A:freetext
+Free Text:UZTT Ground Freetext\E74:freetext
+Free Text:UZTT Ground Freetext\E75:freetext
+Free Text:UZTT Ground Freetext\E76:freetext
+Free Text:UZTT Ground Freetext\E76A:freetext
+Free Text:UZTT Ground Freetext\E77:freetext
+Free Text:UZTT Ground Freetext\E78:freetext
+Free Text:UZTT Ground Freetext\E79:freetext
+Free Text:UZTT Ground Freetext\E79A:freetext
+Free Text:UZTT Ground Freetext\E80:freetext
+Free Text:UZTT Ground Freetext\E81:freetext
+Free Text:UZTT Ground Freetext\E82:freetext
+Free Text:UZTT Ground Freetext\E83:freetext
+Free Text:UZTT Ground Freetext\E83A:freetext
+Free Text:UZTT Ground Freetext\E84:freetext
+Free Text:UZTT Ground Freetext\F85:freetext
+Free Text:UZTT Ground Freetext\F86:freetext
+Free Text:UZTT Ground Freetext\F87:freetext
+Free Text:UZTT Ground Freetext\F88:freetext
+Free Text:UZTT Ground Freetext\F90:freetext
+Free Text:UZTT Ground Freetext\F94:freetext
+Free Text:UZTT Ground Freetext\F94A:freetext
+Free Text:UZTT Ground Freetext\F95:freetext
+Free Text:UZTT Ground Freetext\F96:freetext
+Free Text:UZTT Ground Freetext\F97:freetext
+Free Text:UZTT Ground Freetext\F97A:freetext
+Free Text:UZTT Ground Freetext\G65:freetext
+Free Text:UZTT Ground Freetext\G66:freetext
+Free Text:UZTT Ground Freetext\G67:freetext
+Free Text:UZTT Ground Freetext\G68:freetext
+Free Text:UZTT Ground Freetext\H:freetext
+Free Text:UZTT Ground Freetext\H:freetext
+Free Text:UZTT Ground Freetext\H:freetext
+Free Text:UZTT Ground Freetext\H1:freetext
+Free Text:UZTT Ground Freetext\H42:freetext
+Free Text:UZTT Ground Freetext\H43:freetext
+Free Text:UZTT Ground Freetext\H44:freetext
+Free Text:UZTT Ground Freetext\H45:freetext
+Free Text:UZTT Ground Freetext\H46:freetext
+Free Text:UZTT Ground Freetext\H47:freetext
+Free Text:UZTT Ground Freetext\H48:freetext
+Free Text:UZTT Ground Freetext\H49:freetext
+Free Text:UZTT Ground Freetext\H50:freetext
+Free Text:UZTT Ground Freetext\H51:freetext
+Free Text:UZTT Ground Freetext\H52:freetext
+Free Text:UZTT Ground Freetext\H53:freetext
+Free Text:UZTT Ground Freetext\H54:freetext
+Free Text:UZTT Ground Freetext\H55:freetext
+Free Text:UZTT Ground Freetext\H57:freetext
+Free Text:UZTT Ground Freetext\H58:freetext
+Free Text:UZTT Ground Freetext\MAIN:freetext
+Free Text:UZTT Ground Freetext\MAIN:freetext
+Free Text:UZTT Ground Freetext\MAIN:freetext
+Free Text:UZTT Ground Freetext\ST1:freetext
+Free Text:UZTT Ground Freetext\ST10:freetext
+Free Text:UZTT Ground Freetext\ST11:freetext
+Free Text:UZTT Ground Freetext\ST12:freetext
+Free Text:UZTT Ground Freetext\ST13:freetext
+Free Text:UZTT Ground Freetext\ST2:freetext
+Free Text:UZTT Ground Freetext\ST3:freetext
+Free Text:UZTT Ground Freetext\ST4:freetext
+Free Text:UZTT Ground Freetext\ST5:freetext
+Free Text:UZTT Ground Freetext\ST6A:freetext
+Free Text:UZTT Ground Freetext\ST7:freetext
+Free Text:UZTT Ground Freetext\ST8:freetext
+Free Text:UZTT Ground Freetext\ST9:freetext
 Geo:GEO:
+Geo:UAAA Groundlayout Almaty:
+Geo:UAAH Groundlayout Balkhash:
+Geo:UAAL Groundlayout Usharal:
 Geo:UACC Groundlayout:
 Geo:UACK Groundlayout:
 Geo:UACP Groundlayout:
 Geo:UADD Groundlayout:
 Geo:UAII Groundlayout:
+Geo:UAIT Groundlayout:
+Geo:UAKB Groundlayout:
 Geo:UAKD Groundlayout:
 Geo:UAKK Groundlayout:
+Geo:UAOL Groundlayout:
 Geo:UAOO Groundlayout:
 Geo:UARR Groundlayout:
+Geo:UASK Groundlayout Ust-Kamenogorsk:
 Geo:UASP Groundlayout:
+Geo:UASS Groundlayout Semey:
+Geo:UASU Groundlayout Urdzhar:
+Geo:UASZ Groundlayout Zaisan:
+Geo:UATE Groundlayout:
+Geo:UATZ Groundlayout:
 Geo:UAUU Groundlayout:
 Geo:UCFL Groundlayout:
 Geo:UCFM Groundlayout:
@@ -1091,27 +1523,42 @@ Geo:UTAV Groundlayout:
 Geo:UTDD Groundlayout:
 Geo:UTDK Groundlayout:
 Geo:UTDL Groundlayout:
-Geo:UTFA Groundlayout:
-Geo:UTFF Groundlayout:
-Geo:UTFK Groundlayout:
-Geo:UTFN Groundlayout:
-Geo:UTNN Groundlayout:
-Geo:UTNU Groundlayout:
-Geo:UTSA Groundlayout:
-Geo:UTSB Groundlayout:
-Geo:UTSK Groundlayout:
-Geo:UTSS Groundlayout:
-Geo:UTST Groundlayout:
-Geo:UTTT Groundlayout:
+Geo:UZFA Groundlayout:
+Geo:UZFF Groundlayout:
+Geo:UZFK Groundlayout:
+Geo:UZFN Groundlayout:
+Geo:UZNN Groundlayout:
+Geo:UZNU Groundlayout:
+Geo:UZSA Groundlayout:
+Geo:UZSB Groundlayout:
+Geo:UZSH Groundlayout:
+Geo:UZSK Groundlayout:
+Geo:UZSS Groundlayout:
+Geo:UZST Groundlayout:
+Geo:UZTP Groundlayout:
+Geo:UZTT Groundlayout:
+Regions:UAAA Almaty Polygons:polygon
+Regions:UAAH Balkhash Polygons:polygon
+Regions:UAAL Ground Polygons:polygon
 Regions:UACC Ground Polygons:polygon
 Regions:UACK Ground Polygons:polygon
 Regions:UACP Ground Polygons:polygon
 Regions:UADD Ground Polygons:polygon
 Regions:UAII Ground Polygons:polygon
+Regions:UAIT Ground Polygons:polygon
+Regions:UAKB Ground Polygons:polygon
 Regions:UAKD Ground Polygons:polygon
 Regions:UAKK Ground Polygons:polygon
+Regions:UAOL Ground Polygons:polygon
 Regions:UAOO Ground Polygons:polygon
+Regions:UARR Ground Polygons:polygon
+Regions:UASK Ust-Kamen Polygons:polygon
 Regions:UASP Ground Polygons:polygon
+Regions:UASS Semey Polygons:polygon
+Regions:UASU Urdzhar Polygons:polygon
+Regions:UASZ Zaisan Polygons:polygon
+Regions:UATE Ground Polygons:polygon
+Regions:UATZ Ground Polygons:polygon
 Regions:UAUU Ground Polygons:polygon
 Regions:UCFL Ground Polygons:polygon
 Regions:UCFM Ground Polygons:polygon
@@ -1125,17 +1572,20 @@ Regions:UTAV Ground Polygons:polygon
 Regions:UTDD Ground Polygons:polygon
 Regions:UTDK Ground Polygons:polygon
 Regions:UTDL Ground Polygons:polygon
-Regions:UTFA Ground Polygons:polygon
-Regions:UTFF Ground Polygons:polygon
-Regions:UTFN Ground Polygons:polygon
-Regions:UTNN Ground Polygons:polygon
-Regions:UTNU Ground Polygons:polygon
-Regions:UTSA Groundlayout:polygon
-Regions:UTSB Groundlayout:polygon
-Regions:UTSK Groundlayout:polygon
-Regions:UTSS Groundlayout:polygon
-Regions:UTST Groundlayout:polygon
-Regions:UTTT Ground Polygons:polygon
+Regions:UZFA Ground Polygons:polygon
+Regions:UZFF Ground Polygons:polygon
+Regions:UZFK Ground Polygons:polygon
+Regions:UZFN Ground Polygons:polygon
+Regions:UZNN Ground Polygons:polygon
+Regions:UZNU Ground Polygons:polygon
+Regions:UZSA Groundlayout:polygon
+Regions:UZSB Groundlayout:polygon
+Regions:UZSH Groundlayout:polygon
+Regions:UZSK Groundlayout:polygon
+Regions:UZSS Groundlayout:polygon
+Regions:UZST Groundlayout:polygon
+Regions:UZTP Ground Polygons:polygon
+Regions:UZTX Ground Polygons:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -1149,4 +1599,5 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:33.116360:38.677925:57.151163:96.369090
+WINDOWAREA:33.303841:37.609702:57.338644:95.300867
+PLUGIN:TopSky plugin:NoDraw:1

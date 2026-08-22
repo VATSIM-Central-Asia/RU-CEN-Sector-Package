@@ -1,0 +1,6 @@
+PROFILE
+PROFILE:RU-CEN_FSS:1500:1
+ATIS2:Asia-Center / Азия-Центр
+ATIS3:Top-down ATC service for KAZ, UZB, KYG, TJK, TKM countries
+ATIS4:Check my coverage at map.vatsim.net
+END
