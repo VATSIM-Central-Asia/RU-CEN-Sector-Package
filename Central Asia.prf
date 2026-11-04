@@ -10,8 +10,10 @@ Plugins	Plugin0	\UCEN\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1	\UCEN\Plugins\Timer\ESTimers.dll
 Plugins	Plugin2	\UCEN\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin3	\UCEN\Plugins\Discord\DiscordEuroscope.dll
+Plugins	Plugin4	\UCEN\Plugins\XPGuard\XPGuardES.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin4Display0	Standard ES radar screen
 Sounds	Sound0	\UCEN\Sounds\handoff_request.wav
 Sounds	Sound1	\UCEN\Sounds\handoff_accept.wav
 Sounds	Sound2	\UCEN\Sounds\conflict_alert.wav
